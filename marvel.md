@@ -238,3 +238,8 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 20. Farewell, Cruel World!
 21. The Return
 22. World's End
+#### Spiderman: Homecomming
+#### Inhuman's Season 1
+1. Behold... the Inhumans
+2. Those Who Would Destroy Us
+3. Divide - And Conquer
