@@ -1,4 +1,4 @@
-# Universe-Chrono
+# Chrono
 Chronological Lists of Movie and TV Universes, such as Marvel or DC and the Chronological Story order to watch them.
 
 ### Media Player Tips
