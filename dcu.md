@@ -33,6 +33,14 @@
 5. League of Assassins
 ````
 #### Arrow Blood Rush
+````
+1.
+2.
+3.
+4.
+5.
+6.
+````
 #### Arrow Season 2
 ````
 6. Keep your Enemies Closer
@@ -143,6 +151,14 @@
 14. The Return
 ````
 #### Vixen Season 1
+````
+1.
+2.
+3.
+4.
+5.
+6.
+````
 #### Arrow Season 3
 ````
 15. Nanda Parbat
@@ -202,6 +218,14 @@
 13. Waiting for the Man
 ````
 #### Vixen Season 2
+````
+1.
+2.
+3.
+4.
+5.
+6.
+````
 #### Supergirl Season 1
 ````
 1. Pilot
