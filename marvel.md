@@ -2,6 +2,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 
 #### Captain America: The First Avenger
 #### Marvel's Agent Carter Season 1
+````
 1. Now is Not the End
 2. Bridge and Tunnel
 3. Time and Tide
@@ -10,7 +11,9 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 6. A Sin to Err
 7. Snafu
 8. Valediction
+````
 #### Marvel's Agent Carter Season 2
+````
 1. The Lady in the Lake
 2. A View in the Dark
 3. Better Angels
@@ -21,6 +24,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 8. The Edge of Mystery
 9. A Little Song and Dance
 10. Hollywood Ending
+````
 #### Marvel One-Shot: Agent Carter
 #### Iron Man
 #### Iron Man 2
@@ -33,6 +37,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 #### Iron Man 3
 #### Marvel One-Shot: All Hail the King
 #### Marvel's Agents of S.H.I.E.L.D. Season 1
+````
 1. Pilot
 2. 0-8-4
 3. The Asset
@@ -40,8 +45,10 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 5. Girl in the Flower Dress
 6. FZZT
 7. The Hub
+````
 #### Thor: The Dark World
 #### Marvel's Agents of S.H.I.E.L.D. Season 1
+````
 8. The Well
 9. Repairs
 10. The Bridge
@@ -51,17 +58,21 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 14. T.A.H.I.T.I.
 15. Yes Men
 16. End of the Beginning
+````
 #### Captain America: The Winter Soldier
 #### Marvel's Agents of S.H.I.E.L.D. Season 1
+````
 17. Turn, Turn, Turn
 18. Providence
 19. The Only Light in the Darkness
 20. Nothing Personal
 21. Ragtag
 22. Beginning of the End
+````
 #### Guardians of the Galaxy
 #### Guardians of the Galaxy Vol. 2
 #### Marvel's Daredevil Season 1
+````
 1. Into the Ring
 2. Cut Man
 3. Rabbit in a Snowstorm
@@ -74,8 +85,10 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 10. Nelson v. Murdock
 11. The Path of the Righteous
 12. The Ones We Leave Behind
+````
 #### Daredevil
 #### Marvel's Agents of S.H.I.E.L.D. Season 2
+````
 1. Shadows
 2. Heavy Is the Head
 3. Making Friends and Influencing People
@@ -85,8 +98,10 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 7. The Writing on the Wall
 8. The Things We Bury
 9. ...Ye Who Enter Here
+````
 10. What They Become
 #### Marvel's Jessica Jones Season 1
+````
 1. AKA Ladies Night
 2. AKA Crush Syndrome
 3. AKA It's Called Whiskey
@@ -100,7 +115,9 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 11. AKA I've Got the Blues
 12. AKA Take a Bloody Number
 13. AKA Smile
+````
 #### Marvel's Agents of S.H.I.E.L.D. Season 2
+````
 11. Aftershocks
 12. Who You Really Are
 13. One of Us
@@ -110,22 +127,30 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 17. Melinda
 18. The Frenemy of My Enemy
 19. The Dirty Half Dozen
+````
 #### Avengers: Age of Ultron
 #### Marvel's Agents of S.H.I.E.L.D. Season 2
+````
 20. Scars
 21. S.O.S. Part 1
 22. S.O.S. Part 2
+````
 #### Marvel's Daredevil Season 2
+````
 1. Bang
 2. Dogs to a Gunfight
 3. New York's Finest
 4. Penny and Dime
+````
 #### Marvel’s Luke Cage Season 1
+````
 1. Moment of Truth
 2. Code of the Streets
 3. Who’s Gonna Take the Weight?
 4. Step in the Arena
+````
 #### Marvel's Daredevil Season 2
+````
 5. Kinbaku
 6. Regrets Only
 7. Semper Fidelis
@@ -133,26 +158,34 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 9. Seven Minutes in Heaven
 10. The Man in the Box
 11. .380
+````
 #### Marvel’s Luke Cage Season 1
+````
 5. Just to Get a Rep
 6. Suckas Need Bodyguards
 7. Manifest
 8. Blowin’ Up the Spot
+````
 #### Marvel's Daredevil Season 2
+````
 12. The Dark at the End of the Tunnel
 13. A Cold Day in Hell's Kitchen
+````
 #### Marvel’s Luke Cage Season 1
+````
 9. DWYCK
 10. Take it Personal
 11. Now You’re Mine
 12. Soliloquy of Chaos
 13. You Know My Steez
+````
 #### WHIH Newsfront Top Stories
 #### WHIH EXCLUSIVE: 2012 VistaCorp break-in security footage involving cyber-criminal Scott Lang
 #### WIRED Insider Interviews Darren Cross, CEO of Pym Technologies
 #### WHIH EXCLUSIVE: Scott Lang Interview
 #### Ant-Man
 #### Marvel's Agents of S.H.I.E.L.D. Season 3
+````
 1. Laws of Nature
 2. Purpose in the Machine
 3. A Wanted (Inhu)man
@@ -172,7 +205,9 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 17. The Team
 18. The Singularity
 19. Failed Experiments
+````
 #### Marvel’s Iron Fist Season 1
+````
 1. Snow Gives Way
 2. Shadow Hawk Takes Flight
 3. Rolling Thunder Cannon Punch
@@ -186,6 +221,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 11. Lead Horse Back to Stable
 12. Bar the Big Boss
 13. Dragon Plays with Fire
+````
 #### AVENGERS IMPACT: A WHIH Newsfront Special Event
 #### WHIH Newsfront: The Cost of Saving the World
 #### WHIH Newsfront: The Avengers and The White House
@@ -193,10 +229,13 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 #### WHIH Breaking News: Attack in Lagos
 #### Captain America: Civil War
 #### Marvel's Agents of S.H.I.E.L.D. Season 3
+````
 20. Emancipation
 21. Absolution
 22. Ascension
+````
 #### Marvel's The Defenders Season 1
+````
 1. The H Word
 2. Mean Right Hook
 3. Worst Behaviour
@@ -205,25 +244,33 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 6. Ashes, Ashes
 7. Fish in the Jailhouse
 8. The Defenders
+````
 #### Marvel’s Agents of S.H.I.E.L.D. Season 4
+````
 1. The Ghost
 2. Meet the New Boss
 3. Uprising
 4. Let Me Stand Next to Your Fire
 5. Lockup
 6. The Good Samaritan
+````
 #### Doctor Strange
 #### Marvel’s Agents of S.H.I.E.L.D. Season 4
+````
 7. Deals With Our Devils
 8. The Laws of Inferno Dynamics
+````
 #### Marvel’s Agents of S.H.I.E.L.D.: Slingshot Season 1
+````
 1. Vendetta
 2. John Hancock
 3. Progress
 4. Reunion
 5. Deal Breaker
 6. Justicia
+````
 #### Marvel’s Agents of S.H.I.E.L.D. Season 4
+````
 9. Broken Promises
 10. The Patriot
 11. Wake Up
@@ -238,8 +285,11 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 20. Farewell, Cruel World!
 21. The Return
 22. World's End
+````
 #### Spiderman: Homecomming
 #### Inhuman's Season 1
+````
 1. Behold... the Inhumans
 2. Those Who Would Destroy Us
 3. Divide - And Conquer
+````
