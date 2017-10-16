@@ -99,6 +99,28 @@
 ````
 #### The Clone Wars Animated Series Season 4
 ````
+1	Water War
+2	Gungan Attack
+3	Prisoners
+4	Shadow Warrior
+5	Mercy Mission
+6	Nomad Droids
+7	Darkness on Umbara
+8	The General
+9	Plan of Dissent
+10	Carnage of Krell
+11	Kidnapped
+12	Slaves of the Republic
+13	Escape from Kadavo
+14	A Friend in Need
+15	Deception
+16	Friends and Enemies
+17	The Box
+18	Crisis on Naboo
+19	Massacre
+20	Bounty
+21	Brothers
+22	Revenge
 ````
 #### The Clone Wars Animated Series Season 5
 ````
@@ -125,6 +147,19 @@
 ````
 #### The Clone Wars Animated Series Season 6
 ````
+1	The Unknown
+2	Conspiracy
+3	Fugitive
+4	Orders
+5	An Old Friend
+6	The Rise of Clovis
+7	Crisis at the Heart
+8	The Disappeared - Part 1
+9	The Disappeared - Part 2
+10	The Lost One
+11	Voices
+12	Destiny
+13	Sacrifice
 ````
 #### Star Wars Episode 3 Revenge of the Sith
 #### Star Wars Rebels Animated Series
