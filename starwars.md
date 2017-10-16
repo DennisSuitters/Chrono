@@ -1,97 +1,131 @@
 #### Star Wars Episode 1 The Phantom Menace
 #### Star Wars Episode 2 Attack of the Clones
-#### The Clone Wars
-
-216 Cat and Mouse
-116 Hidden Enemy
-The Clone Wars movie (theatrical release)
-301 Clone Cadets
-303 Supply Lines
-101 Ambush
-102 Rising Malevolence
-103 Shadow of Malevolence
-104 Destroy Malevolence
-105 Rookies
-106 Downfall of a Droid
-107 Duel of the Droids
-108 Bombad Jedi
-109 Cloak of Darkness
-110 Lair of Grievous
-111 Dooku Captured
-112 The Gungan General
-113 Jedi Crash
-114 Defenders of Peace
-115 Trespass
-117 Blue Shadow Virus
-118 Mystery of a Thousand Moons
-119 Storm over Ryloth
-120 Innocents of Ryloth
-121 Liberty on Ryloth
-201 Holocron Heist
-202 Cargo of Doom
-203 Children of the Force
-217 Bounty Hunters
-218 The Zillo Beast
-219 The Zillo Beast Strikes Back
-204 Senate Spy
-205 Landing at Point Rain
-206 Weapons Factory
-207 Legacy of Terror
-208 Brain Invaders
-209 Grievous Intrigue
-210 The Deserter
-211 Lightsaber Lost
-212 The Mandalore Plot
-213 Voyage of Temptation
-214 Duchess of Mandalore
-220 Death Trap
-221 R2 Come Home
-222 Lethal Trackdown
-305 Corruption
-306 The Academy
-307 Assassin
-302 ARC Troopers
-304 Sphere of Influence
-308 Evil Plans
-122 Hostage Crisis
-309 Hunt for Ziro
-310 Heroes on Both Sides
-311 Pursuit of Peace
-215 Senate Murders
-312 Nightsisters
-313 Monster
-314 Witches of the Mist
-315 Overlords
-316 Altar of Mortis
-317 Ghosts of Mortis
-318 The Citadel
-319 Counter Attack
-320 Citadel Rescue
-321 Padawan Lost
-322 Wookiee Hunt
-The Clone Wars Season 4 is already in continuity, view in order.
-502 A War on Two Fronts
-503 Front Runners
-504 The Soft War
-505 Tipping Points
-506 The Gathering
-507 A Test of Strength
-508 Bound for Rescue
-509 A Necessary Bond
-510 Secret Weapons
-511 A Sunny Day in the Void
-512 Missing in Action
-513 Point of No Return
-501 Revival
-514 Eminence
-515 Shades of Reason
-516 The Lawless
-517 Sabotage
-518 The Jedi Who Knew Too Much
-519 To Catch a Jedi
-520 The Wrong Jedi
-The Clone Wars Season 6 is already in continuity, view in order.
-
+#### The Clone Wars Animated Series Season 2
+````
+16 Cat and Mouse
+````
+#### The Clone Wars Animated Series Season 1
+````
+16 Hidden Enemy
+````
+#### The Clone Wars movie (theatrical release)
+#### The Clone Wars Animated Series Season 3
+````
+1 Clone Cadets
+3 Supply Lines
+````
+#### The Clone Wars Animated Series Season 1
+````
+1 Ambush
+2 Rising Malevolence
+3 Shadow of Malevolence
+4 Destroy Malevolence
+5 Rookies
+6 Downfall of a Droid
+7 Duel of the Droids
+8 Bombad Jedi
+9 Cloak of Darkness
+10 Lair of Grievous
+11 Dooku Captured
+12 The Gungan General
+13 Jedi Crash
+14 Defenders of Peace
+15 Trespass
+17 Blue Shadow Virus
+18 Mystery of a Thousand Moons
+19 Storm over Ryloth
+20 Innocents of Ryloth
+21 Liberty on Ryloth
+````
+#### The Clone Wars Animated Series Season 2
+````
+1 Holocron Heist
+2 Cargo of Doom
+3 Children of the Force
+17 Bounty Hunters
+18 The Zillo Beast
+19 The Zillo Beast Strikes Back
+4 Senate Spy
+5 Landing at Point Rain
+6 Weapons Factory
+7 Legacy of Terror
+8 Brain Invaders
+9 Grievous Intrigue
+10 The Deserter
+11 Lightsaber Lost
+12 The Mandalore Plot
+13 Voyage of Temptation
+14 Duchess of Mandalore
+20 Death Trap
+21 R2 Come Home
+22 Lethal Trackdown
+````
+#### The Clone Wars Animated Series Season 3
+````
+5 Corruption
+6 The Academy
+7 Assassin
+2 ARC Troopers
+4 Sphere of Influence
+8 Evil Plans
+````
+#### The Clone Wars Animated Series Season 1
+````
+22 Hostage Crisis
+````
+#### The Clone Wars Animated Series Season 3
+````
+9 Hunt for Ziro
+10 Heroes on Both Sides
+11 Pursuit of Peace
+````
+#### The Clone Wars Animated Series Season 2
+````
+15 Senate Murders
+````
+#### The Clone Wars Animated Series Season 3
+````
+12 Nightsisters
+13 Monster
+14 Witches of the Mist
+15 Overlords
+16 Altar of Mortis
+17 Ghosts of Mortis
+18 The Citadel
+19 Counter Attack
+20 Citadel Rescue
+21 Padawan Lost
+22 Wookiee Hunt
+````
+#### The Clone Wars Animated Series Season 4
+````
+````
+#### The Clone Wars Animated Series Season 5
+````
+2 A War on Two Fronts
+3 Front Runners
+4 The Soft War
+5 Tipping Points
+6 The Gathering
+7 A Test of Strength
+8 Bound for Rescue
+9 A Necessary Bond
+10 Secret Weapons
+11 A Sunny Day in the Void
+12 Missing in Action
+13 Point of No Return
+01 Revival
+14 Eminence
+15 Shades of Reason
+16 The Lawless
+17 Sabotage
+18 The Jedi Who Knew Too Much
+19 To Catch a Jedi
+20 The Wrong Jedi
+````
+#### The Clone Wars Animated Series Season 6
+````
+````
 #### Star Wars Episode 3 Revenge of the Sith
 #### Star Wars Rebels Animated Series
 #### Rogue One A Star Wars Story
