@@ -28,5 +28,6 @@ Chronological Lists of Movie and TV Universes, such as Marvel or DC and the Chro
 - [Star Trek](https://github.com/DiemenDesign/Chrono/blob/master/startrek.md)
   - [Website](http://www.startrek.com/)
   - [/r/startrek on Reddit](https://www.reddit.com/r/startrek/)
+- [Star Wars](https://github.com/DiemenDesign/Chrono/blob/master/starwars.md)
 - [The X-Files](https://github.com/DiemenDesign/Chrono/blob/master/xfiles.md)
 
