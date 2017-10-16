@@ -99,28 +99,28 @@
 ````
 #### The Clone Wars Animated Series Season 4
 ````
-1	Water War
-2	Gungan Attack
-3	Prisoners
-4	Shadow Warrior
-5	Mercy Mission
-6	Nomad Droids
-7	Darkness on Umbara
-8	The General
-9	Plan of Dissent
-10	Carnage of Krell
-11	Kidnapped
-12	Slaves of the Republic
-13	Escape from Kadavo
-14	A Friend in Need
-15	Deception
-16	Friends and Enemies
-17	The Box
-18	Crisis on Naboo
-19	Massacre
-20	Bounty
-21	Brothers
-22	Revenge
+1 Water War
+2 Gungan Attack
+3 Prisoners
+4 Shadow Warrior
+5 Mercy Mission
+6 Nomad Droids
+7 Darkness on Umbara
+8 The General
+9 Plan of Dissent
+10 Carnage of Krell
+11 Kidnapped
+12 Slaves of the Republic
+13 Escape from Kadavo
+14 A Friend in Need
+15 Deception
+16 Friends and Enemies
+17 The Box
+18 Crisis on Naboo
+19 Massacre
+20 Bounty
+21 Brothers
+22 Revenge
 ````
 #### The Clone Wars Animated Series Season 5
 ````
@@ -147,22 +147,96 @@
 ````
 #### The Clone Wars Animated Series Season 6
 ````
-1	The Unknown
-2	Conspiracy
-3	Fugitive
-4	Orders
-5	An Old Friend
-6	The Rise of Clovis
-7	Crisis at the Heart
-8	The Disappeared - Part 1
-9	The Disappeared - Part 2
-10	The Lost One
-11	Voices
-12	Destiny
-13	Sacrifice
+1 The Unknown
+2 Conspiracy
+3 Fugitive
+4 Orders
+5 An Old Friend
+6 The Rise of Clovis
+7 Crisis at the Heart
+8 The Disappeared - Part 1
+9 The Disappeared - Part 2
+10 The Lost One
+11 Voices
+12 Destiny
+13 Sacrifice
 ````
 #### Star Wars Episode 3 Revenge of the Sith
-#### Star Wars Rebels Animated Series
+#### Star Wars Rebels Animated Series Season 1
+````
+1 Droids in Distress
+2 Fighter Flight
+3 Rise of the Old Masters
+4 Breaking Ranks
+5 Out of Darkness
+6 Empire Day
+7 Gathering Forces
+8 Path of the Jedi
+9 Idiot's Array
+10 Vision of Hope
+11 Call to Action
+12 Rebel Resolve
+13 Fire Across the Galaxy
+````
+#### Star Wars Rebels Animated Series Season 2
+````
+1 The Lost Commanders
+2 Relics of the Old Republic
+3 Always Two There Are
+4 Brothers of the Broken Horn
+5 Wings of the Master
+6 Blood Sisters
+7 Stealth Strike
+8 The Future of the Force
+9 Legacy
+10 A Princess on Lothal
+11 The Protector of Concord Dawn
+12 Legends of the Lasat
+13 The Call
+14 Homecoming
+15 The Honorable Ones
+16 Shroud of Darkness
+17 The Forgotten Droid
+18 The Mystery of Chopper Base
+19 Twilight of the Apprentice (1)
+20 Twilight of the Apprentice (2)
+````
+#### Star Wars Rebels Animated Series Season 3
+````
+1 Steps Into Shadow
+2 The Holocrons of Fate
+3 The Antilles Extraction
+4 Hera's Heroes
+5 The Last Battle
+6 Imperial Supercommandos
+7 Iron Squadron
+8 The Wynkahthu Job
+9 An Inside Man
+10 Visions and Voices
+11 Ghosts of Geonosis (1)
+12 Ghosts of Geonosis (2)
+13 Warhead
+14 Trials of the Darksaber
+15 Legacy of Mandalore
+16 Through Imperial Eyes
+17 Secret Cargo
+18 Double Agent Droid
+19 Twin Suns
+20 Zero Hour (1)
+21 Zero Hour (2)
+````
+#### Star Wars Rebels Animated Series Season 4
+````
+1 Heroes of Mandalore (1)
+2 Heroes of Mandalore (2)
+3 In the Name of the Rebellion (1)
+4 In the Name of the Rebellion (2)
+5 The Occupation
+6 Flight of the Defender
+7 Kindred
+8 Crawler Commanders
+9 Rebel Assault
+````
 #### Rogue One A Star Wars Story
 #### Star Wars Episode 4 A New Hope
 #### Star Wars Episode 5 The Empire Strikes Back
