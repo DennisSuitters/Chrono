@@ -245,6 +245,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 7. Fish in the Jailhouse
 8. The Defenders
 ````
+#### Spiderman: Homecomming
 #### Marvel’s Agents of S.H.I.E.L.D. Season 4
 ````
 1. The Ghost
@@ -269,6 +270,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 5. Deal Breaker
 6. Justicia
 ````
+#### Thor: Ragnorak
 #### Marvel’s Agents of S.H.I.E.L.D. Season 4
 ````
 9. Broken Promises
@@ -286,10 +288,36 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 21. The Return
 22. World's End
 ````
-#### Spiderman: Homecomming
 #### Inhuman's Season 1
 ````
 1. Behold... the Inhumans
 2. Those Who Would Destroy Us
 3. Divide - And Conquer
+4. Make Way for ... Medusa
+5. Something Inhuman This Way Comes
+6. The Gentleman's Name Is Gorgon
+7. Havoc In the Hidden Land
+8. ...Anf Finally: Black Bolt
+````
+#### The Punisher Season 1
+````
+1. 3 AM
+2. Two Dead Man
+3. Kandahar
+4. Resupply
+5. Gunner
+6. The Judas Goat
+7. Crosshairs
+8. Cold Steel
+9. Front Towards Enemy
+10. Virtue of the Vicious 
+11. Danger Close
+12. Home
+13. Memento Mori
+````
+#### Runaways Season 1
+````
+1. Reunion
+2. Rewind
+3. Destiny
 ````
