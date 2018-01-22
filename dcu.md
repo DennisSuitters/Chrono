@@ -229,8 +229,6 @@
 #### Supergirl Season 1
 ````
 1. Pilot
-2. Stronger Together
-3. Fight or Flight
 ````
 #### Arrow Season 4
 ````
@@ -240,28 +238,43 @@
 ````
 1. The Man Who Saved Central City
 2. Flash of Two Worlds
+````
+#### Arrow Season 4
+````
+2. The Candidate
+````
+#### Supergirl Season 1
+````
+2. Stronger Together
+3. Fight or Flight
+````
+#### The Flash Season 2
+````
 3. Family of Rogues
+````
+#### Arrow Season 4
+````
+3. Restoration
+4. Beyond Redemption
+````
+#### Supergirl Season 1
+````
+4. How Does She Do it?
+5. Livewire
+````
+#### The Flash Season 2
+````
 4. The Fury of Firestorm
 5. The Darkness and the Light
 ````
 #### Arrow Season 4
 ````
-2. The Candidate
-3. Restoration
-````
-#### Supergirl Season 1
-````
-4. How Does She Do it?
-````
-#### Arrow Season 4
-````
-4. Beyond Redemption
 5. Haunted
 6. Lost Souls
 ````
 #### Supergirl Season 1
 ````
-5. Livewire
+6. Red Faced
 ````
 #### The Flash Season 2
 ````
@@ -273,10 +286,8 @@
 ````
 #### Supergirl Season 1
 ````
-6. Red Faced
 7. Human for a Day
 8. Hostile Takeover
-9. Blood Bonds
 ````
 #### The Flash Season 2
 ````
@@ -291,20 +302,13 @@
 ````
 #### Supergirl Season 1
 ````
+9. Blood Bonds
 10. Childish Things
 ````
 #### The Flash Season 2
 ````
 9. Running to Stand Still
 10. Potential Energy
-11. The Reverse-Flash Returns
-````
-#### Supergirl Season 1
-````
-11. Strange Visitors From Another Planet
-12. Bizarro
-13. For the Girl Who Has Everything
-14. Truth, Justice and the American Way
 ````
 #### Legends of Tomorrow Season 1
 ````
@@ -312,54 +316,116 @@
 2. Pilot
 3. Blood Ties
 ````
+#### Supergirl Season 1
+````
+11. Strange Visitors From Another Planet
+````
+#### The Flash Season 2
+````
+11. The Reverse-Flash Returns
+````
 #### Arrow Season 4
 ````
 11. A.W.O.L.
-12. Unchained
-13. Sins of the Father
 ````
 #### The Flash Season 2
 ````
 12. Fast Lane
+````
+#### Arrow Season 4
+````
+12. Unchained
+13. Sins of the Father
+````
+#### Supergirl Season 1
+````
+12. Bizarro
+13. For the Girl Who Has Everything
+````
+#### The Flash Season 2
+````
 13. Welcome to Earth-2
 14. Escape from Earth-2
-15. King Shark
 ````
 #### Legends of Tomorrow Season 1
 ````
 4. White Knights
 5. Fail-Safe
-6. Star City 2046
 ````
 #### Arrow Season 4
 ````
 14. Code of Silence
-15. Taken
-16. Broken Hearts
 ````
-#### Legends of Tomorrow Season 1
+#### Supergirl Season 1
 ````
-7. Marooned
-8. Night of the Hawk
-9. Left Behind
-10. Progeny
+14. Truth, Justice and the American Way
 ````
 #### The Flash Season 2
 ````
-16. Trajectory
-17. Flash Back
+15. King Shark
+````
+#### Arrow Season 4
+````
+15. Taken
+````
+#### Legends of Tomorrow Season 1
+````
+6. Star City 2046
+7. Marooned
+8. Night of the Hawk
 ````
 #### Supergirl Season 1
 ````
 15. Solitude
+````
+#### The Flash Season 2
+````
+16. Trajectory
+````
+#### Arrow Season 4
+````
+16. Broken Hearts
+````
+#### Supergirl Season 1
+````
 16. Falling
-17. Manhunter
+````
+#### The Flash Season 2
+````
+17. Flash Back
 ````
 #### Arrow Season 4
 ````
 17. Beacon of Hope
+````
+#### Legends of Tomorrow Season 1
+````
+9. Left Behind
+````
+#### Arrow Season 4
+````
 18. Eleven-Fifty-Nine
-19. Canary Cry
+````
+#### Legends of Tomorrow Season 1
+````
+10. Progeny
+11. The Magnificent Eight
+````
+#### Supergirl Season 1
+````
+17. Manhunter
+````
+#### The Flash Season 2
+````
+18. Versus Zoom
+````
+#### Supergirl Season 1
+````
+18. Worlds Finest
+````
+#### The Flash Season 2
+````
+19. Back to Normal
 ````
 #### The Flash: Chronicles of Cisco
 ````
@@ -370,82 +436,140 @@
 ````
 #### Supergirl Season 1
 ````
-18. Worlds Finest
-````
-#### The Flash Season 2
-````
-18. Versus Zoom
-````
-#### Supergirl Season 1
-````
 19. Myriad
 20. Better Angels
 ````
 #### The Flash Season 2
 ````
-19. Back to Normal
+20. Rupture
+````
+#### Legend of Tomorrow Season 1
+````
+12. Last Refuge
+````
+#### The Flash Season 2
+````
+21. The Runaway Dinosaur
+````
+#### Arrow Season 4
+````
+19. Canary Cry
+````
+#### Legend of Tomorrow Season 1
+````
+13. Leviathan
 ````
 #### Arrow Season 4
 ````
 20. Genesis
+````
+#### Legend of Tomorrow Season 1
+````
+14. River of Time
+````
+#### Arrow Season 4
+````
 21. Monument Point
-22. Lost in the Flood
-23. Schism
 ````
 #### Legends of Tomorrow Season 1
 ````
-11. The Magnificent Eight
-12. Last Refuge
-13. Leviathan
-14. River of Time
 15. Destiny
+````
+#### The Flash Season 2
+````
+22. Invincible
+````
+#### Arrow Season 4
+````
+22. Lost in the Flood
+````
+#### Legends of Tomorrow Season 1
+````
 16. Legendary
 ````
 #### The Flash Season 2
 ````
-20. Rupture
-21. The Runaway Dinosaur
-22. Invincible
 23. The Race of His Life
 ````
-#### Supergirl Season 2
+#### Arrow Season 4
 ````
-6. Changing
+23. Schism
 ````
 #### The Flash Season 3
 ````
 1. Flashpoint
-2. Paradox
-3. Magenta
-4. The New Rogues
-5. Monster
-6. Shade
-7. Killer Frost
-````
-#### Supergirl Season 2
-````
-7. The Darkest Place
 ````
 #### Arrow Season 5
 ````
 1. Legacy
+````
+#### Supergirl Season 2
+````
+1. The Adventures of Supergirl
+````
+#### The Flash Season 3
+````
+2. Paradox
+````
+#### Arrow Season 5
+````
 2. The Recruits
 ````
-#### Legends of Tomorrow Season 2
+#### Legend of Tomorrow Season 2
 ````
 1. Out of Time
-2. The Justice Society of America
-3. Shogun
+````
+#### Supergirl Season 2
+````
+2. The Last Children of Krypton
+````
+#### The Flash Season 3
+````
+3. Magenta
 ````
 #### Arrow Season 5
 ````
 3. A Matter of Trust
+````
+#### Legend of Tomorrow Season 2
+````
+2. The Justice Society of America
+````
+#### Supergirl Season 2
+````
+3. Welcome to Earth
+````
+#### The Flash Season 3
+````
+4. The New Rogues
+````
+#### Arrow Season 5
+````
 4. Penance
+````
+#### Legends of Tomorrow Season 2
+````
+3. Shogun
+````
+#### Supergirl Season 2
+````
+4. Survivors
+````
+#### The Flash Season 3
+````
+5. Monster
+````
+#### Arrow Season 5
+````
 5. Human Target
 ````
 #### Legends of Tomorrow Season 2
 ````
 4. Abominations
+````
+#### Supergirl Season 2
+````
+5. Crossfire
 ````
 #### Arrow Season 5
 ````
@@ -455,6 +579,14 @@
 ````
 5. Compromised
 ````
+#### Supergirl Season 2
+````
+6. Changing
+````
+#### The Flash Season 3
+````
+6. Shade
+````
 #### Arrow Season 5
 ````
 7. Vigilante
@@ -462,6 +594,14 @@
 #### Legends of Tomorrow Season 2
 ````
 6. Outlaw Country
+````
+#### Supergirl Season 2
+````
+7. The Darkest Place
+````
+#### The Flash Season 3
+````
+7. Killer Frost
 ````
 #### Supergirl Season 2
 ````
@@ -486,14 +626,10 @@
 #### Arrow Season 5
 ````
 9. What We Leave Behind
-10. Who Are You?
 ````
-#### Legends of Tomorrow Season 2
+#### Legend of Tomorrow Season 2
 ````
 8. The Chicago Way
-9. Raiders of the Lost Art
-10. The Legion of Doom
-11. Turncoat
 ````
 #### Supergirl Season 2
 ````
@@ -503,13 +639,25 @@
 ````
 10. Borrowing Problems from the Future
 ````
+#### Legends of Tomorrow Season 2
+````
+9. Raiders of the Lost Art
+````
+#### Arrow Season 5
+````
+10. Who Are You?
+````
 #### Supergirl Season 2
 ````
-10. We Can Be Heroes
+10. We Can Be Heroes?
 ````
 #### The Flash Season 3
 ````
 11. Dead or Alive
+````
+#### Legend of Tomorrow Season 2
+````
+10. The Legion of Doom
 ````
 #### Arrow Season 5
 ````
@@ -523,6 +671,10 @@
 ````
 12. Untouchable
 ````
+#### Legends of Tomorrow Season 2
+````
+11. Turncoat
+````
 #### Arrow Season 5
 ````
 12. Bratva
@@ -530,26 +682,41 @@
 #### Supergirl Season 2
 ````
 12. Luthors
-13. Mr. & Mrs. Mxyzptlk
-14. Homecoming
-````
-#### The Flash Season 3
-````
-13. Attack on Gorilla City
-14. Attack on Central City
 ````
 #### Arrow Season 5
 ````
 13. Spectre of the Gun
 ````
+#### Supergirl Season 2
+````
+13. Mr. & Mrs. Mxyzptlk
+````
+#### The Flash Season 3
+````
+13. Attack on Gorilla City
+````
 #### Legends of Tomorrow Season 2
 ````
 12. Camelot/3000
-13. Land of the Lost 
 ````
 #### Arrow Season 5
 ````
 14. The Sin-Eater
+````
+#### Supergirl Season 2
+````
+14. Homecoming
+````
+#### The Flash Season 3
+````
+14. Attack on Central City
+````
+#### Legends of Tomorrow Season 2
+````
+13. Land of the Lost 
+````
+#### Arrow Season 5
+````
 15. Fighting Fire with Fire
 ````
 #### Supergirl Season 2
@@ -559,11 +726,18 @@
 #### The Flash Season 3
 ````
 15. The Wrath of Savitar
-16. Into the Speed Force
 ````
 #### Legends of Tomorrow Season 2
 ````
 14. Moonshot
+````
+#### The Flash Season 3
+````
+16. Into the Speed Force
+````
+#### Legends of Tomorrow Season 2
+````
+15. Fellowship of the Spear
 ````
 #### Arrow Season 5
 ````
@@ -579,12 +753,11 @@
 ````
 #### Legends of Tomorrow Season 2
 ````
-15. Fellowship of the Spear
+16. Doomworld
 ````
 #### Arrow Season 5
 ````
 17. Kapiushon
-18. Disbanded
 ````
 #### Supergirl Season 2
 ````
@@ -593,34 +766,200 @@
 #### The Flash Season 3
 ````
 18. Abra Kadabra
-19. The Once and Future Flash
-20. I Know Who You Are
-21. Cause and Effect
-22. Infantino Street
-23. Finish Line
 ````
-#### Arrow Season 5
+#### The Flash Season 5
 ````
-19. Dangerous Liaisons
-20. Underneath
+18. Disbanded
 ````
 #### Legends of Tomorrow Season 2
 ````
-16. Doomworld
 17. Aruba
 ````
 #### Supergirl Season 2
 ````
 18. Ace Reporter
-19. Alex
-20. City of Lost Children
-21. Resist
-22. Nevertheless, She Persisted
 ````
-#### Supergirl Season 3 
+#### The Flash Season 3
+````
+19. The Once and Future Flash
+````
+#### Arrow Season 5
+````
+19. Dangerous Liaisons
+````
+#### Supergirl Season 2
+````
+19. Alex
+````
+#### The Flash Season 3
+````
+20. I Know Who You Are
+````
+#### Arrow Season 5
+````
+20. Underneath
+````
+#### Supergirl Season 2
+````
+20. City of Lost Children
+````
+#### The Flash Season 3
+````
+21. Cause and Effect
+````
 #### Arrow Season 5
 ````
 21. Honor Thy Fathers
+````
+#### Supergirl Season 2
+````
+21. Resist
+````
+#### The Flash Season 3
+````
+22. Infantino Street
+````
+#### Arrow Season 5
+````
 22. Missing
+````
+#### Supergirl Season 2
+````
+22. Nevertheless, She Persisted
+````
+#### The Flash Season 3
+````
+23. Finish Line
+````
+#### Arrow Season 5
+````
 23. Lian Yu
+````
+#### Supergirl Season 3
+````
+1. Girl of Steel
+````
+#### The Flash Season 4
+````
+1. The Flash Reborn
+````
+#### Legends of Tomorrow Season 3
+````
+1. Aruba-Con
+````
+#### Arrow Season 6
+````
+1. Fallout
+````
+#### Supergirl Season 3
+````
+1. Triggers
+````
+#### The Flash Season 4
+````
+2. Mixed Signals
+````
+#### Legend of Tomorrow Season 3
+````
+2. Freakshow
+````
+#### Arrow Season 6
+````
+2. Tribute
+````
+#### Supergirl Season 3
+````
+3. Far From the Tree
+````
+#### The FLash Season 4
+````
+3. Lucky Be a Lady
+````
+#### Legends of Tomorrow Season 3
+````
+3. Zari
+````
+#### Arrow Season 6
+````
+3. Next of Kin
+````
+#### Supergirl Season 3
+````
+4. The Faithful
+````
+#### The Flash Season 4
+````
+4. Elongated Journey Into Night
+````
+#### Legend of Tomorrow Season 3
+````
+4. Phone Home
+````
+#### Arrow Season 6
+````
+4. Reversal
+````
+#### Supergirl Season 3
+````
+5. Damage
+````
+#### The Flash Season 4
+````
+5. Girls Night Out
+````
+#### Legend of Tomorrow Season 3
+````
+5. Return of the Mack
+````
+#### Arrow Season 6
+````
+5. Deathstroke Returns
+````
+#### Supergirl Season 6
+````
+6. Midvale
+````
+#### The Flash Season 4
+````
+6. When Harry Met Harry...
+````
+#### Legend of Tomorrow Season 3
+````
+6. Helen Hunt
+````
+#### Arrow Season 6
+````
+6. Promises Kept
+````
+#### Supergirl Season 3
+````
+7. Wake Up
+````
+#### The Flash Season 4
+````
+7. Thefore I am
+````
+#### Legends of Tomorrow Season 3
+````
+7. Welcome to the Jungle
+````
+#### Arrow Season 6
+````
+7. Thanksgiving
+````
+#### Supergirl Season 3
+````
+8. Crisis on Earth-X Part 1
+````
+#### Arrow Season 6
+````
+8. Crisis on Earth-X Part 2
+````
+#### The Flash Season 4
+````
+8. Crisis on Earth-X Part 3
+````
+#### Legends of Tomorrow Season 3
+````
+8. Crisis on Earth-x Part 3
 ````
