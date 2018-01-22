@@ -85,6 +85,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 10. Nelson v. Murdock
 11. The Path of the Righteous
 12. The Ones We Leave Behind
+13. Daredevil
 ````
 #### Daredevil
 #### Marvel's Agents of S.H.I.E.L.D. Season 2
