@@ -247,6 +247,22 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 8. The Defenders
 ````
 #### Spiderman: Homecomming
+#### The Punisher Season 1
+````
+1. 3 AM
+2. Two Dead Man
+3. Kandahar
+4. Resupply
+5. Gunner
+6. The Judas Goat
+7. Crosshairs
+8. Cold Steel
+9. Front Towards Enemy
+10. Virtue of the Vicious 
+11. Danger Close
+12. Home
+13. Memento Mori
+````
 #### Marvel’s Agents of S.H.I.E.L.D. Season 4
 ````
 1. The Ghost
@@ -300,25 +316,27 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 7. Havoc In the Hidden Land
 8. ...Anf Finally: Black Bolt
 ````
-#### The Punisher Season 1
-````
-1. 3 AM
-2. Two Dead Man
-3. Kandahar
-4. Resupply
-5. Gunner
-6. The Judas Goat
-7. Crosshairs
-8. Cold Steel
-9. Front Towards Enemy
-10. Virtue of the Vicious 
-11. Danger Close
-12. Home
-13. Memento Mori
-````
 #### Runaways Season 1
 ````
 1. Reunion
 2. Rewind
 3. Destiny
+4. Fifteen
+5. Kingdom
+6. Metamorphosis
+7. Refraction
+8. Tsunami
+9. Doomsday
+10. Hostile
+````
+#### Marvel’s Agents of S.H.I.E.L.D. Season 5
+````
+1. Orientation Part 1
+2. Orientation Part 2
+3. A Life Spent
+4. A Life Earned
+5. Rewind
+6. Fun & Games
+7. Together Or Not At All
+8. The Last Day
 ````
