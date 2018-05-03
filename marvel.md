@@ -343,4 +343,19 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 6. Fun & Games
 7. Together Or Not At All
 8. The Last Day
+9. Best Laid Plans
+10. Past Life
+11. All the Comforts of Home
+12. The Real Deal
+13. Principia
+14. The Devil Complex
+15. Rise and Shine
+16. Inside Voices
+17. The Honeymoon
+18. All Roads Lead...
+````
+#### Avengers: Infinity War
+#### Marvel’s Agents of S.H.I.E.L.D. Season 5
+````
+19. Option Two
 ````
