@@ -232,6 +232,10 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 #### Marvel's Agents of S.H.I.E.L.D. Season 3
 ````
 20. Emancipation
+````
+#### Black Panther
+#### Marvel's Agents of S.H.I.E.L.D. Season 3
+````
 21. Absolution
 22. Ascension
 ````
