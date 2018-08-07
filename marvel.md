@@ -87,7 +87,6 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 12. The Ones We Leave Behind
 13. Daredevil
 ````
-#### Daredevil
 #### Marvel's Agents of S.H.I.E.L.D. Season 2
 ````
 1. Shadows
@@ -136,6 +135,17 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 21. S.O.S. Part 1
 22. S.O.S. Part 2
 ````
+#### Inhumans Season 1
+````
+1. Behold... The Inhumans
+2. Those Who Would Destroy Us
+3. Divide - And Concquer
+4. Make Way For... Medusa
+5. Something Inhuman This Way Comes...
+6. The Gentleman's Name Is Gorgon
+7. Havoc In the Hidden Land
+8. ...And Finally: Black Bolt
+````
 #### Marvel's Daredevil Season 2
 ````
 1. Bang
@@ -179,6 +189,19 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 11. Now You’re Mine
 12. Soliloquy of Chaos
 13. You Know My Steez
+````
+#### Cloak and Dagger Season 1
+````
+1. First Light
+2. Suicide Sprints
+3. Stained Glass
+4. Call/Response
+5. Princeton Offense
+6. Funhouse Mirrors
+7. Lotus Eaters
+8. Ghost Stories
+9. Back Breaker
+10. Colony Collapse
 ````
 #### WHIH Newsfront Top Stories
 #### WHIH EXCLUSIVE: 2012 VistaCorp break-in security footage involving cyber-criminal Scott Lang
@@ -267,6 +290,51 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 12. Home
 13. Memento Mori
 ````
+#### Jessica Jones Season 2
+````
+1. AKA Start At The Beginning
+2. AKA Freak Accident
+3. AKA Sole Survivor
+4. AKA God Help The Hobo
+5. AKA The Octopus
+6. AKA Facetime
+7. AKA I Want Your Cray Cray
+8. AKA Ain't We Got Fun
+9. AKA Shark In The Bathtub, Monster In The Bed
+10. AKA Pork Chop
+11. AKA Three Lives And Counting
+12. AKA Pray For My Patsy
+13. AKA Playland
+````
+#### Luke Cage Season 2
+````
+1. Soul Brother
+2. Straghten It Out
+3. Wig Out
+4. I Get Physical
+5. All Souled Out
+6. The Basement
+7. On and On
+8. If It Ain't Rough, It Ain't Right
+9. For Pete's Sake
+10. The Main Ingredient
+11. The Creator
+12. Can't Front On Me
+13. They Reminisce Over You
+````
+#### Runaways Season 1
+````
+1. Reunion
+2. Rewind
+3. Destiny
+4. Fifteen
+5. Kingdom
+6. Metamorphosis
+7. Refraction
+8. Tsunami
+9. Doomsday
+10. Hostile
+````
 #### Marvel’s Agents of S.H.I.E.L.D. Season 4
 ````
 1. The Ghost
@@ -292,6 +360,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 6. Justicia
 ````
 #### Thor: Ragnorak
+#### Ant-Man and the Wasp
 #### Marvel’s Agents of S.H.I.E.L.D. Season 4
 ````
 9. Broken Promises
@@ -308,30 +377,6 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 20. Farewell, Cruel World!
 21. The Return
 22. World's End
-````
-#### Inhuman's Season 1
-````
-1. Behold... the Inhumans
-2. Those Who Would Destroy Us
-3. Divide - And Conquer
-4. Make Way for ... Medusa
-5. Something Inhuman This Way Comes
-6. The Gentleman's Name Is Gorgon
-7. Havoc In the Hidden Land
-8. ...Anf Finally: Black Bolt
-````
-#### Runaways Season 1
-````
-1. Reunion
-2. Rewind
-3. Destiny
-4. Fifteen
-5. Kingdom
-6. Metamorphosis
-7. Refraction
-8. Tsunami
-9. Doomsday
-10. Hostile
 ````
 #### Marvel’s Agents of S.H.I.E.L.D. Season 5
 ````
@@ -353,9 +398,9 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 16. Inside Voices
 17. The Honeymoon
 18. All Roads Lead...
+19. Option Two
+20. The One Who Will Save Us All
+21. The Force of Gravity
+22. The End
 ````
 #### Avengers: Infinity War
-#### Marvel’s Agents of S.H.I.E.L.D. Season 5
-````
-19. Option Two
-````
