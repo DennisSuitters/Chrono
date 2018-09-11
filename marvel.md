@@ -1,7 +1,7 @@
 https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit?pref=2&pli=1#gid=0
 
 #### Captain America: The First Avenger
-#### Marvel's Agent Carter Season 1
+#### Agent Carter Season 1
 ````
 1. Now is Not the End
 2. Bridge and Tunnel
@@ -12,7 +12,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 7. Snafu
 8. Valediction
 ````
-#### Marvel's Agent Carter Season 2
+#### Agent Carter Season 2
 ````
 1. The Lady in the Lake
 2. A View in the Dark
@@ -25,18 +25,18 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 9. A Little Song and Dance
 10. Hollywood Ending
 ````
-#### Marvel One-Shot: Agent Carter
+#### One-Shot: Agent Carter
 #### Iron Man
 #### Iron Man 2
 #### The Incredible Hulk
-#### Marvel One-Shot: The Consultant
-#### Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer
+#### One-Shot: The Consultant
+#### One-Shot: A Funny Thing Happened on the Way to Thor's Hammer
 #### Thor
 #### Avengers
-#### Marvel One-Shot: Item 47
+#### One-Shot: Item 47
 #### Iron Man 3
-#### Marvel One-Shot: All Hail the King
-#### Marvel's Agents of S.H.I.E.L.D. Season 1
+#### One-Shot: All Hail the King
+#### Agents of S.H.I.E.L.D. Season 1
 ````
 1. Pilot
 2. 0-8-4
@@ -47,7 +47,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 7. The Hub
 ````
 #### Thor: The Dark World
-#### Marvel's Agents of S.H.I.E.L.D. Season 1
+#### Agents of S.H.I.E.L.D. Season 1
 ````
 8. The Well
 9. Repairs
@@ -60,7 +60,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 16. End of the Beginning
 ````
 #### Captain America: The Winter Soldier
-#### Marvel's Agents of S.H.I.E.L.D. Season 1
+#### Agents of S.H.I.E.L.D. Season 1
 ````
 17. Turn, Turn, Turn
 18. Providence
@@ -71,7 +71,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 ````
 #### Guardians of the Galaxy
 #### Guardians of the Galaxy Vol. 2
-#### Marvel's Daredevil Season 1
+#### Daredevil Season 1
 ````
 1. Into the Ring
 2. Cut Man
@@ -87,7 +87,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 12. The Ones We Leave Behind
 13. Daredevil
 ````
-#### Marvel's Agents of S.H.I.E.L.D. Season 2
+#### Agents of S.H.I.E.L.D. Season 2
 ````
 1. Shadows
 2. Heavy Is the Head
@@ -100,7 +100,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 9. ...Ye Who Enter Here
 10. What They Become
 ````
-#### Marvel's Jessica Jones Season 1
+#### Jessica Jones Season 1
 ````
 1. AKA Ladies Night
 2. AKA Crush Syndrome
@@ -116,7 +116,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 12. AKA Take a Bloody Number
 13. AKA Smile
 ````
-#### Marvel's Agents of S.H.I.E.L.D. Season 2
+#### Agents of S.H.I.E.L.D. Season 2
 ````
 11. Aftershocks
 12. Who You Really Are
@@ -129,7 +129,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 19. The Dirty Half Dozen
 ````
 #### Avengers: Age of Ultron
-#### Marvel's Agents of S.H.I.E.L.D. Season 2
+#### Agents of S.H.I.E.L.D. Season 2
 ````
 20. Scars
 21. S.O.S. Part 1
@@ -146,21 +146,21 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 7. Havoc In the Hidden Land
 8. ...And Finally: Black Bolt
 ````
-#### Marvel's Daredevil Season 2
+#### Daredevil Season 2
 ````
 1. Bang
 2. Dogs to a Gunfight
 3. New York's Finest
 4. Penny and Dime
 ````
-#### Marvel’s Luke Cage Season 1
+#### Luke Cage Season 1
 ````
 1. Moment of Truth
 2. Code of the Streets
 3. Who’s Gonna Take the Weight?
 4. Step in the Arena
 ````
-#### Marvel's Daredevil Season 2
+#### Daredevil Season 2
 ````
 5. Kinbaku
 6. Regrets Only
@@ -170,19 +170,19 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 10. The Man in the Box
 11. .380
 ````
-#### Marvel’s Luke Cage Season 1
+#### Luke Cage Season 1
 ````
 5. Just to Get a Rep
 6. Suckas Need Bodyguards
 7. Manifest
 8. Blowin’ Up the Spot
 ````
-#### Marvel's Daredevil Season 2
+#### Daredevil Season 2
 ````
 12. The Dark at the End of the Tunnel
 13. A Cold Day in Hell's Kitchen
 ````
-#### Marvel’s Luke Cage Season 1
+#### Luke Cage Season 1
 ````
 9. DWYCK
 10. Take it Personal
@@ -208,7 +208,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 #### WIRED Insider Interviews Darren Cross, CEO of Pym Technologies
 #### WHIH EXCLUSIVE: Scott Lang Interview
 #### Ant-Man
-#### Marvel's Agents of S.H.I.E.L.D. Season 3
+#### Agents of S.H.I.E.L.D. Season 3
 ````
 1. Laws of Nature
 2. Purpose in the Machine
@@ -230,7 +230,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 18. The Singularity
 19. Failed Experiments
 ````
-#### Marvel’s Iron Fist Season 1
+#### Iron Fist Season 1
 ````
 1. Snow Gives Way
 2. Shadow Hawk Takes Flight
@@ -252,17 +252,17 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 #### WHIH Newsfront Exclusive: President Ellis Discusses the Avengers
 #### WHIH Breaking News: Attack in Lagos
 #### Captain America: Civil War
-#### Marvel's Agents of S.H.I.E.L.D. Season 3
+#### Agents of S.H.I.E.L.D. Season 3
 ````
 20. Emancipation
 ````
 #### Black Panther
-#### Marvel's Agents of S.H.I.E.L.D. Season 3
+#### Agents of S.H.I.E.L.D. Season 3
 ````
 21. Absolution
 22. Ascension
 ````
-#### Marvel's The Defenders Season 1
+#### The Defenders Season 1
 ````
 1. The H Word
 2. Mean Right Hook
@@ -335,7 +335,20 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 9. Doomsday
 10. Hostile
 ````
-#### Marvel’s Agents of S.H.I.E.L.D. Season 4
+#### Iron Fist Season 2
+````
+1. The Fury Of Iron Fist
+2. The City's Not For Burning
+3. This Deadly Secret
+4. Target: Iron Fist
+5. Heart Of The Dragon
+6. The Dragon Dies At Dawn
+7. Morning Of The Mindstorm
+8. Citadel On The Edge Of Vengeance
+9. War Without End
+10. A Duel Of Iron
+````
+#### Agents of S.H.I.E.L.D. Season 4
 ````
 1. The Ghost
 2. Meet the New Boss
@@ -345,12 +358,12 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 6. The Good Samaritan
 ````
 #### Doctor Strange
-#### Marvel’s Agents of S.H.I.E.L.D. Season 4
+#### Agents of S.H.I.E.L.D. Season 4
 ````
 7. Deals With Our Devils
 8. The Laws of Inferno Dynamics
 ````
-#### Marvel’s Agents of S.H.I.E.L.D.: Slingshot Season 1
+#### Agents of S.H.I.E.L.D.: Slingshot Season 1
 ````
 1. Vendetta
 2. John Hancock
@@ -361,7 +374,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 ````
 #### Thor: Ragnorak
 #### Ant-Man and the Wasp
-#### Marvel’s Agents of S.H.I.E.L.D. Season 4
+#### Agents of S.H.I.E.L.D. Season 4
 ````
 9. Broken Promises
 10. The Patriot
@@ -378,7 +391,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 21. The Return
 22. World's End
 ````
-#### Marvel’s Agents of S.H.I.E.L.D. Season 5
+#### Agents of S.H.I.E.L.D. Season 5
 ````
 1. Orientation Part 1
 2. Orientation Part 2
