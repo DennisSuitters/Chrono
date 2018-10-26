@@ -348,6 +348,22 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 9. War Without End
 10. A Duel Of Iron
 ````
+#### Daredevil Season 3
+````
+1. Resurrection
+2. Please
+3. No Good Deed
+4. Blindsided
+5. The Perfect Game
+6. The Devil You Know
+7. Aftermath
+8. Upstairs/Downstairs
+9. Revelations
+10. Karen
+11. Reunion
+12. One Last Shot
+13. A New Napkin
+````
 #### Agents of S.H.I.E.L.D. Season 4
 ````
 1. The Ghost
