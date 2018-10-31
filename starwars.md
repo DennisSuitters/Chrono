@@ -237,6 +237,7 @@
 8 Crawler Commanders
 9 Rebel Assault
 ````
+#### Solo A Star Wars Story
 #### Rogue One A Star Wars Story
 #### Star Wars Episode 4 A New Hope
 #### Star Wars Episode 5 The Empire Strikes Back
