@@ -203,6 +203,11 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 9. Back Breaker
 10. Colony Collapse
 ````
+#### Cloak and Dagger Season 2
+````
+1. Restless Energy
+2. White Lines
+````
 #### WHIH Newsfront Top Stories
 #### WHIH EXCLUSIVE: 2012 VistaCorp break-in security footage involving cyber-criminal Scott Lang
 #### WIRED Insider Interviews Darren Cross, CEO of Pym Technologies
