@@ -26,6 +26,7 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 10. Hollywood Ending
 ````
 #### One-Shot: Agent Carter
+#### Captain Marvel
 #### Iron Man
 #### Iron Man 2
 #### The Incredible Hulk
