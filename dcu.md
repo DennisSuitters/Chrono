@@ -69,17 +69,22 @@
 #### Arrow Season 3
 ````
 1. The Calm
-2. Sara
 ````
 #### The Flash Season 1
 ````
 2. Fastest Man Alive
+````
+#### Arrow Season 3
+````
+2. Sara
+````
+#### The Flash Season 1
+````
 3. Things You Can't Outrun
 ````
 #### Arrow Season 3
 ````
 3. Corto Maltese
-4. The Magician
 ````
 #### The Flash Season 1
 ````
@@ -87,21 +92,28 @@
 ````
 #### Arrow Season 3
 ````
+4. The Magician
 5. The Secret Origin of Felicity Smoak
 ````
 #### The Flash Season 1
 ````
 5. Plastique
-6. The Flash is Born
-7. Power Outage
 ````
 #### Arrow Season 3
 ````
 6. Guilty
+````
+#### The Flash Season 1
+````
+6. The Flash is Born
+````
+#### Arrow Season 3
+````
 7. Draw Back Your Bow
 ````
 #### The Flash Season 1
 ````
+7. Power Outage
 8. Flash vs. Arrow
 ````
 #### Arrow Season 3
@@ -143,11 +155,17 @@
 #### The Flash Season 1
 ````
 13. Nuclear Man
+````
+#### Arrows Season 3
+````
+13. Canaries
+````
+#### The Flash Season 1
+````
 14. Fallout
 ````
 #### Arrow Season 3
 ````
-13. Canaries
 14. The Return
 ````
 #### Vixen Season 1
@@ -162,31 +180,61 @@
 #### Arrow Season 3
 ````
 15. Nanda Parbat
-16. The Offer
 ````
 #### The Flash Season 1
 ````
 15. Out of Time
+````
+#### Arrow Season 3
+````
+16. The Offer
+````
+#### The Flash Season 1
+````
 16. Rogue Time
-17. Trickers
-18. All Star Team Up
 ````
 #### Arrow Season 3
 ````
 17. Suicical Tendencies
+````
+#### The Flash Season 1
+````
+17. Trickers
+````
+#### Arrow Season 1
+````
 18. Public Enemy
+````
+#### The Flash Season 1
+````
+18. All Star Team Up
+````
+#### Arrow Season 3
+````
 19. Broken Arrow
-20. The Fallen
 ````
 #### The Flash Season 1
 ````
 19. Who is Harrison Wells?
+````
+#### Arrow Season 3
+````
+20. The Fallen
+````
+#### The Flash Season 1
+````
 20. The Trap
-21. Grodd Lives
 ````
 #### Arrow Season 3
 ````
 21. Al Sah-him
+````
+#### The Flash Season 1
+````
+21. Grodd Lives
+````
+#### Arrow Season 3
+````
 22. This is Your Sword
 ````
 #### The Flash Season 1
@@ -961,5 +1009,434 @@
 ````
 #### Legends of Tomorrow Season 3
 ````
-8. Crisis on Earth-x Part 3
+8. Crisis on Earth-x Part 4
 ````
+#### Supergirl Season 3
+````
+9. Reign
+````
+#### The Flash Season 4
+````
+9. Don't Run
+````
+#### Legends of Tomorrow
+````
+9. Beebo the God of War
+````
+#### Arrow Season 6
+````
+9. Irreconcilable Differences
+````
+#### Supergirl Season 3
+````
+10. Legion of Superheroes
+````
+#### The Flash Season 4
+````
+10. The Trial of the Flash
+````
+#### Arrow Season 6
+````
+10. Divided
+````
+#### Supergirl Season 3
+````
+11. Fort Rozz
+````
+#### The Flash Season 4
+````
+11. The Elongated Knight Rises
+````
+#### Arrow Season 6
+````
+11. We Fall
+````
+#### Supergirl Season 3
+````
+12. For Good
+````
+#### The Flash Season 4
+````
+12. HOney, I Shrunk Team Flash
+````
+#### Arrow Season 6
+````
+12. All for Nothing
+````
+#### Supergirl Season 3
+````
+13. Both Sides Now
+````
+#### The Flash Season 4
+````
+13. True Colors
+````
+#### Arrow Season 6
+````
+13. The Devil's Greatest Trick
+````
+#### Legend of Tomorrow Season 3
+````
+10. Daddy Darhkest
+11. Here I Go Again
+12. The Curse of the Earth Totem
+````
+#### The Flash Season 4
+````
+14. Subject 9
+````
+#### Arrow Season 6
+````
+14. Collision Course
+````
+#### Legend of Tomorrow Season 3
+````
+13. No Country for Old Dads.
+````
+#### The Flash Season 4
+````
+15. Enter Flashtime
+````
+#### Arrow Season 6
+````
+15. Doppelganger
+````
+#### Legends of Tomorrow Season 3
+````
+14. Amazing Grace
+````
+#### The Flash Season 4
+````
+16. Run, Iris, Run
+````
+#### Legends of Tomorrow Season 3
+````
+15. Necromancing the Stone
+16. I, Ava
+````
+#### Arrow Season 6
+````
+16. The Thanatos Guild
+````
+#### Legends of Tomorrow Season 3
+````
+17. Guest Starring John Noble
+````
+#### Arrow Season 6
+````
+17. Brothers in Arms
+````
+#### Legends of Tomorrow Season 3
+````
+18. The Good, the Bad, and the Cuddly
+````
+#### The Flash Season 4
+````
+17. Null and Annoyed
+````
+#### Arrow Season 6
+````
+18. Fundamentals
+````
+#### Supergirl Season 3
+````
+14. Schott Through the Heart
+````
+#### The Flash Season 4
+````
+18. Lose Yourself
+````
+#### Arrow Season 6
+````
+19. The Dragon
+````
+#### Supergirl Season 3
+````
+15. In Search of Lost Time
+````
+#### The Flash Season 4
+````
+19. Fury Rogue
+````
+#### Arrow Season 6
+````
+20. Sifting Allegiances
+````
+#### Supergirl Season 3
+````
+16. Of Two Minds
+````
+#### The Flash Season 4
+````
+20. Therefore She Is
+````
+#### Arrow Season 6
+````
+21. Docket No. 11-19-41-73
+````
+#### Supergirl Season 3
+````
+17. Trinity
+````
+#### The Flash Season 4
+````
+21. Harry and the Harrisons
+````
+#### Arrow Season 6
+````
+22. The Ties That Bind
+````
+#### Supergirl Season 3
+````
+18. Shelter from the Storm
+````
+#### The Flash Season 4
+````
+22. Think Fast
+````
+#### Arrow Season 6
+````
+23. Life Sentence
+````
+#### Supergirl Season 3
+````
+19. The Fanatical
+````
+#### The Flash Season 4
+````
+23. We Are the Flash
+````
+#### Supergirl Season 3
+````
+20. Dark Side of the Moon
+21. Not Kansas
+22. Make it Reign
+23. Battles Lost and Won
+````
+#### The Flash Season 5
+````
+1. Nora
+````
+#### Supergirl Season 4
+````
+1. American Alien
+````
+#### Arrow Season 7
+````
+1. Inmate 4587
+````
+#### The Flash Season 5
+````
+2. Blocked
+````
+#### Supergirl Season 4
+````
+2. Fallout
+````
+#### Arrow Season 7
+````
+2. The Longbow Hunters
+````
+#### Legends of Tomorrow Season 4
+````
+1. The Virgin Gary
+````
+#### The Flash Season 5
+````
+3. The Death of Vibe
+````
+#### Supergirl Season 4
+````
+3. Man of Steel
+````
+#### Arrow Season 7
+````
+3. Crossing Lines
+````
+#### Legends of Tomorrow Season 4
+````
+2. Witch Hunt
+````
+#### The Flash Season 5
+````
+4. News Flash
+````
+#### Supergirl Season 4
+````
+4. Ahimsa
+````
+#### Arrow Season 7
+````
+4. Level Two
+````
+#### Legends of Tomorrow Season 4
+````
+3. Dancing Queen
+````
+#### Supergirl Season 4
+````
+5. Parasite Lost
+````
+#### Arrow Season 7
+````
+5. The Demon
+````
+#### Legends of Tomorrow Season 4
+````
+4. We Hot American Bummer
+````
+#### The Flash Season 5
+````
+5. All Doll'd Up
+````
+#### Supergirl Season 4
+````
+6. Call to Action
+````
+#### Arrow Season 7
+````
+6. Due Process
+````
+#### Legends of Tomorrow Season 4
+````
+5. Tagumo Attacks!!!
+````
+#### The Flash Season 5
+````
+6. The Icicle Cometh
+````
+#### Supergirl Season 4
+````
+7. Rather the Fallen Angel
+````
+#### Arrow Season 7
+````
+7. The Slabside Redemption
+````
+#### Legends of Tomorrow Season 4
+````
+6. Tender is the Nate
+````
+#### The Flash Season 5
+````
+7. O Come, All Ye Faithful
+````
+#### Supergirl Season 4
+````
+8. Bunker Hill
+````
+#### Arrow Season 7
+````
+8. Unmasked
+````
+#### Legends of Tomorrow Season 4
+````
+7. Hell No, Dolly!
+````
+#### The Flash Season 5
+````
+8. What's Past is Prologue
+9. Elseworlds, Part 1
+````
+#### Arrow Season 7
+````
+9. Elseworlds, Part 2
+````
+#### Supergirl Season 4
+````
+9. Elseworlds, Part 3
+````
+#### Legends of Tomorrow Season 4
+````
+8. Legends of To-Meow-Meow
+````
+#### The Flash Season 5
+````
+10. The Flash & the Furious
+````
+#### Supergirl Season 4
+````
+10. Suspicious Minds
+````
+#### Arrow Season 7
+````
+10. My Name is Emiko Queen
+````
+#### The Flash Season 5
+````
+11. Seeing Red
+````
+#### Supergirl Season 4
+````
+11. Blood Memory
+````
+#### Arrow Season 7
+````
+11. Past Sins
+````
+#### The Flash Season 5
+````
+12. Memorabilia
+````
+#### Arrow Season 7
+````
+12. Emerald Archer
+````
+#### The Flash Season 5
+````
+13. Goldfaced
+````
+#### Arrow Season 7
+````
+13. Star City Slayer
+````
+#### The Flash Season 5
+````
+14. Cause and XS
+````
+#### Supergirl Season 4
+````
+12. Menagerie
+13. What's So Funny About Truth, Justice, and the American Way?
+````
+#### Arrow Season 7
+````
+14. Brothers & Sisters
+````
+#### The Flash Season 5
+````
+15. King Shark vs. Gorilla Grodd
+````
+#### Supergirl Season 4
+````
+14. Stand and Deliver
+````
+#### Arrow Season 7
+````
+15. Training Day
+````
+#### The Flash Season 5
+````
+16. Failure is an Orhpan
+````
+#### Supergirl Season 4
+````
+15. O Brother, Where Art Thou?
+````
+#### Arrow Season 7
+````
+16. Star City 2040
+````
+#### The Flash Season 5
+````
+17. Time Bomb
+````
+#### Supergirl Season 4
+````
+16. The House of L
+````
+#### Arrow Season 7
+````
+17. Inheritance
+````
+
