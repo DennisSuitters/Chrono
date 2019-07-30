@@ -136,17 +136,6 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 21. S.O.S. Part 1
 22. S.O.S. Part 2
 ````
-#### Inhumans Season 1
-````
-1. Behold... The Inhumans
-2. Those Who Would Destroy Us
-3. Divide - And Concquer
-4. Make Way For... Medusa
-5. Something Inhuman This Way Comes...
-6. The Gentleman's Name Is Gorgon
-7. Havoc In the Hidden Land
-8. ...And Finally: Black Bolt
-````
 #### Daredevil Season 2
 ````
 1. Bang
@@ -208,6 +197,14 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 ````
 1. Restless Energy
 2. White Lines
+3. Shadow Selves
+4. Rabbit Hold
+5. Alignment Chart
+6. B Sides
+7. Vikingtown Sound
+8. Two Player
+9. Blue Note
+10. Level Up
 ````
 #### WHIH Newsfront Top Stories
 #### WHIH EXCLUSIVE: 2012 VistaCorp break-in security footage involving cyber-criminal Scott Lang
@@ -267,6 +264,17 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 ````
 21. Absolution
 22. Ascension
+````
+#### Inhumans Season 1
+````
+1. Behold... The Inhumans
+2. Those Who Would Destroy Us
+3. Divide - And Conquer
+4. Make Way For... Medusa
+5. Something Inhuman This Way Comes...
+6. The Gentleman's Name Is Gorgon
+7. Havoc In The Hidden Land
+8. ...And Finally: Black Bolt
 ````
 #### The Defenders Season 1
 ````
@@ -341,6 +349,22 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 9. Doomsday
 10. Hostile
 ````
+#### Runaways Season 2
+````
+1. Gimmie Shelter
+2. Radio On
+3. Double Zeros
+4. Old School
+5. Rock Bottom
+6. Bury Another
+7. Last Rites
+8. Past Life
+9. Big Shot
+10. Hostile Takeover
+11. Last Waltz
+12. Earth Angel
+13. Split Up
+````
 #### Iron Fist Season 2
 ````
 1. The Fury Of Iron Fist
@@ -369,6 +393,38 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 11. Reunion
 12. One Last Shot
 13. A New Napkin
+````
+#### The Punisher Season 2
+````
+1. Roadhouse Blues
+2. Fight or Flight
+3. Trouble the Water
+4. Scar Tissue
+5. One-Eyed Jacks
+6. Nakazat
+7. One Bad Day
+8. My Brother's Keeper
+9. Flustercluck
+10. The Dark Hearts of Men
+11. The Abyss
+12. Collision Course
+13. The Whirlwind
+````
+#### Jessica Jones Season 3
+````
+1. AKA The Perfect Burger
+2. AKA You're Welcome
+3. AKA I Have No Spleen
+4. AKA Customer Servies Is Standing By
+5. AKA I Wish
+6. AKA Sorry Face
+7. AKA The Double Half-Wappinger
+8. AKA Camera Friendly
+9. AKA I Did Something Today
+10. AKA Hero Pants
+11. AKA Hellcat
+12. AKA A Lotta Worms
+13. AKA Everything
 ````
 #### Agents of S.H.I.E.L.D. Season 4
 ````
@@ -439,3 +495,19 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 22. The End
 ````
 #### Avengers: Infinity War
+#### Agents of S.H.I.E.L.D. Season 6
+````
+1. Missing Pieces
+2. Window of Opportunity
+3. Fear and Loathing on the Planet of Kitson
+4. Code Yellow
+5. The Other Thing
+6. Inescapable
+7. Toldja
+8. Collision Course Part 1
+9. Collision Course Part 2
+10. Leap
+11. From the Ashes
+````
+#### Avengers: End Game
+#### Spider-Man: Far From Home
