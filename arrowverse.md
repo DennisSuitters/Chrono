@@ -1,3 +1,4 @@
+````
 1	Arrow	S01E01	Pilot	October 10, 2012
 2	Arrow	S01E02	Honor Thy Father	October 17, 2012
 3	Arrow	S01E03	Lone Gunmen	October 24, 2012
@@ -539,3 +540,4 @@
 539	Arrow	S08E09	Green Arrow & The Canaries	January 21, 2020
 540	DC's Legends of Tomorrow	S05E01	Meet the Legends	January 21, 2020
 541	Arrow	S08E10	Fadeout	January 28, 2020
+````
