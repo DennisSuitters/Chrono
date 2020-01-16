@@ -17,8 +17,8 @@
 #### Star Wars Episode 4 A New Hope
 #### Star Wars Episode 5 The Empire Strikes Back
 #### Star Wars Episode 6 Return of the Jedi
-#### Star Wars Resistance Season 1
 #### The Mandalorian Season 1
+#### Star Wars Resistance Season 1
 #### Star Wars Episode 7 The Force Awakens
 #### Star Wars Episode 8 The Last Jedi
 #### Star Wars Episode 9 The Rise of Skywalker
