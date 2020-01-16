@@ -122,6 +122,23 @@
 14
 15
 ````
+#### Star Trek: Discovery Season 2
+````
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+````
 #### Star Trek: The Original Series Season 1
 ````
 0 The Cage
