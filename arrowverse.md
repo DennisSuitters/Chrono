@@ -591,4 +591,6 @@ https://flash-arrow-order.herokuapp.com/#
 589	Batwoman	                S01E20	O, Mouse!
 590	Supergirl	                S05E19	Immortal Kombat
 591	DC's Legends of Tomorrow	S05E12	I Am Legends
+592	DC's Legends of Tomorrow	S05E13	The One Where We're Trapped On TV
+593	DC's Legends of Tomorrow	S05E14	Swan Thong
 ````
