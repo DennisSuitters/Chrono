@@ -1,4 +1,5 @@
 https://flash-arrow-order.herokuapp.com/#
+https://www.geekyregards.com/p/arrowverse-viewing-order.html
 
 ````
 1	  Arrow                     S01E01	Pilot
@@ -590,7 +591,20 @@ https://flash-arrow-order.herokuapp.com/#
 588	The Flash	                S06E19	Success Is Assured
 589	Batwoman	                S01E20	O, Mouse!
 590	Supergirl	                S05E19	Immortal Kombat
-591	DC's Legends of Tomorrow	S05E12	I Am Legends
-592	DC's Legends of Tomorrow	S05E13	The One Where We're Trapped On TV
-593	DC's Legends of Tomorrow	S05E14	Swan Thong
+591 Stargirl                  S01E01  Pilot
+592	DC's Legends of Tomorrow	S05E12	I Am Legends
+593 Stargirl                  S01E02  S.T.R.I.P.E.
+594	DC's Legends of Tomorrow	S05E13	The One Where We're Trapped On TV
+595 Stargirl                  S01E03  Icicle
+596	DC's Legends of Tomorrow	S05E14	Swan Thong
+596 Stargirl                  S01E04  Wildcat
+597 Stargirl                  S01E05  Hourman and Dr. Mid-Nite
+598 Stargirl                  S01E06  The Justice Society
+599 Stargirl                  S01E07  Shiv Part One
+600 Stargirl                  S01E08  Shiv Part Two
+601 Stargirl                  S01E09  Brainwave
+602 Stargirl                  S01E10  Brainwave Jr.
+603 Stargirl                  S01E11  Shining Knight
+604 Stargirl                  S01E12  Stars & S.T.R.I.P.E Part One
+605 Stargirl                  S01E13  Stars & S.T.R.I.P.E Part Two
 ````
