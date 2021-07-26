@@ -1,3 +1,5 @@
+https://www.geekyregards.com/p/arrowverse-viewing-order.html
+
 #### Arrow Season 1
 ````
 1. Pilot
