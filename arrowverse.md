@@ -1,4 +1,4 @@
-https://flash-arrow-order.herokuapp.com/#
+https://arrowverse.info/
 https://www.geekyregards.com/p/arrowverse-viewing-order.html
 
 ````
