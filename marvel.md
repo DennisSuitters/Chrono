@@ -111,12 +111,12 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 97    Agents of S.H.I.E.L.D.            S02E21 S.O.S. Part 1
 98    Agents of S.H.I.E.L.D.            S02E22 S.O.S. Part 2
 99    Ant Man
-100   Daredevil                         S02E01 Bang
-101   Daredevil                         S02E02 Dogs To A Gunfight
-102   Daredevil                         S02E03 New York's Finest
-103   Daredevil                         S02E04 Penny and Dime
-104   Luke Cage                         S01E01 Moment of Truth
-105   Luke Cage                         S01E02 Code of the Streets
+100   Luke Cage                         S01E01 Moment of Truth
+101   Luke Cage                         S01E02 Code of the Streets
+102   Daredevil                         S02E01 Bang
+103   Daredevil                         S02E02 Dogs To A Gunfight
+104   Daredevil                         S02E03 New York's Finest
+105   Daredevil                         S02E04 Penny and Dime
 106   Luke Cage                         S01E03 Who's Gonna Take the Weight?
 107   Luke Cage                         S01E04 Step in the Arena
 108   Daredevil                         S02E05 Kinbaku
@@ -193,246 +193,295 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 175   Iron Fist                         S01E12 Bar The Big Boss
 176   Iron Fist                         S01E13 Dragon Plays With Fire
 177   Captain America: Civil War
-178   Agents of S.H.I.E.L.D.            S03E20 Emancipation
-179   Black Panther
-180   Agents of S.H.I.E.L.D.            S03E21 Absolution
-181   Agents of S.H.I.E.L.D.            S03E22 Ascension
-182   Inhumans                          S01E01 Behold... The Inhumans
-183   Inhumans                          S01E02 Those Who Would Destroy Us
-184   Inhumans                          S01E03 Divid - And Conquer
-185   Inhumans                          S01E04 Make Way For... Medusa
-186   Inhumans                          S01E05 Something Inhuman This Way Comes
-187   Inhumans                          S01E06 The Gentleman's Name is Gorgon
-188   Inhumans                          S01E07 Havoc In The Hidden Land
-189   Inhumans                          S01E08 ...And Finally: Black Bolt
-190   The Defenders                     S01E01 The H Word
-191   The Defenders                     S01E02 Mean Right Hook
-192   The Defenders                     S01E03 Worst Behavior
-193   The Defenders                     S01E04 Royal Dragon
-194   The Defenders                     S01E05 Take Shelter
-195   The Defenders                     S01E06 Ashes, Ashes
-196   The Defenders                     S01E07 Fish in the Jailhouse
-197   The Defenders                     S01E08 The Defenders
-198   Spider-Man: Homecoming
-199   The Punisher                      S01E01 3 AM
-200   The Punisher                      S01E02 Two Dead Men
-201   The Punisher                      S01E03 Kandahar
-202   The Punisher                      S01E04 Resupply
-203   The Punisher                      S01E05 Gunner
-204   The Punisher                      S01E06 The Judas Goat
-205   The Punisher                      S01E07 Crosshairs
-206   The Punisher                      S01E08 Cold Steel
-207   The Punisher                      S01E09 Front Towards Enemy
-208   The Punisher                      S01E10 Virtue of the Vicious
-209   The Punisher                      S01E11 Danger Close
-210   The Punisher                      S01E12 Home
-211   The Punisher                      S01E13 Memento Mori
-212   Jessica Jones                     S02E01 AKA Start At The Beginning
-213   Jessica Jones                     S02E02 AKA Freak Accident
-214   Jessica Jones                     S02E03 AKA Sole Survivor
-215   Jessica Jones                     S02E04 AKA God Help The Hobo
-216   Jessica Jones                     S02E05 AKA The Octopus
-217   Jessica Jones                     S02E06 AKA Facetime
-218   Jessica Jones                     S02E07 AKA I Want Your Cray Cray
-219   Jessica Jones                     S02E08 AKA Ain't We Got Fun
-220   Jessica Jones                     S02E09 AKA Shark in The Bathtub, Monster in The Bed
-221   Jessica Jones                     S02E10 AKA Pork Chop
-222   Jessica Jones                     S02E11 AKA Three Lives and Counting
-223   Jessica Jones                     S02E12 AKA Pray For My Patsy
-224   Jessica Jones                     S02E13 AKA Playland
-225   Luke Cage                         S02E01 Soul Brother
-226   Luke Cage                         S02E02 Staighten it Out
-227   Luke Cage                         S02E03 Wig Out
-228   Luke Cage                         S02E04 I Get Physical
-229   Luke Cage                         S02E05 All Souled Out
-230   Luke Cage                         S02E06 The Basement
-231   Luke Cage                         S02E07 On and On
-232   Luke Cage                         S02E08 If it Ain't Rough, it Ain't Right
-233   Luke Cage                         S02E09 For Pete's Sake
-234   Luke Cage                         S02E10 The Main Ingredient
-235   Luke Cage                         S02E11 The Creator
-236   Luke Cage                         S02E12 Can't Front on Me
-237   Luke Cage                         S02E13 They Reminisce Over You
-238   Runaways                          S01E01 Reunion
-239   Runaways                          S01E02 Rewind
-240   Runaways                          S01E03 Destiny
-241   Runaways                          S01E04 Fifteen
-242   Runaways                          S01E05 Kingdom
-243   Runaways                          S01E06 Metamorphosis
-244   Runaways                          S01E07 Refraction
-245   Runaways                          S01E08 Tsunami
-246   Runaways                          S01E09 Doomsday
-247   Runaways                          S01E10 Hostile
-248   Runaways                          S02E01 Gimmie Shelter
-249   Runaways                          S02E02 Radio On
-250   Runaways                          S02E03 Double Zeros
-251   Runaways                          S02E04 Old School
-252   Runaways                          S02E05 Rock Bottom
-253   Runaways                          S02E06 Bury Another
-254   Runaways                          S02E07 Last Rites
-255   Runaways                          S02E08 Past Life
-256   Runaways                          S02E09 Big Shot
-257   Runaways                          S02E10 Hostile Takeover
-258   Runaways                          S02E11 Last Waltz
-259   Runaways                          S02E12 Earth Angel
-260   Runaways                          S02E13 Split Up
-261   Iron First                        S02E01 The Fury Of Iron Fist
-262   Iron First                        S02E02 The City's Not For Burning
-263   Iron First                        S02E03 This Deadly Secret
-264   Iron First                        S02E04 Target: Iron Fist
-265   Iron First                        S02E05 Heart Of The Dragon
-266   Iron First                        S02E06 The Dragon Dies At Dawn
-267   Iron First                        S02E07 Morning Of The Mindstorm
-268   Iron First                        S02E08 Citadel On The Edge Of Vengeance
-269   Iron First                        S02E09 War Without End
-270   Iron First                        S02E10 A Duel Of Iron
-271   Daredevil                         S03E01 Resurrection
-272   Daredevil                         S03E02 Please
-273   Daredevil                         S03E03 No Good Deed
-274   Daredevil                         S03E04 Blindsided
-275   Daredevil                         S03E05 The Perfect Game
-276   Daredevil                         S03E06 The Devil You Know
-277   Daredevil                         S03E07 Aftermath
+178   Black Widow
+179   Agents of S.H.I.E.L.D.            S03E20 Emancipation
+180   Black Panther
+181   Agents of S.H.I.E.L.D.            S03E21 Absolution
+182   Agents of S.H.I.E.L.D.            S03E22 Ascension
+183   Inhumans                          S01E01 Behold... The Inhumans
+184   Inhumans                          S01E02 Those Who Would Destroy Us
+185   Inhumans                          S01E03 Divid - And Conquer
+186   Inhumans                          S01E04 Make Way For... Medusa
+187   Inhumans                          S01E05 Something Inhuman This Way Comes
+188   Inhumans                          S01E06 The Gentleman's Name is Gorgon
+189   Inhumans                          S01E07 Havoc In The Hidden Land
+190   Inhumans                          S01E08 ...And Finally: Black Bolt
+191   The Defenders                     S01E01 The H Word
+192   The Defenders                     S01E02 Mean Right Hook
+193   The Defenders                     S01E03 Worst Behavior
+194   The Defenders                     S01E04 Royal Dragon
+195   The Defenders                     S01E05 Take Shelter
+196   The Defenders                     S01E06 Ashes, Ashes
+197   The Defenders                     S01E07 Fish in the Jailhouse
+198   The Defenders                     S01E08 The Defenders
+199   Spider-Man: Homecoming
+200   The Punisher                      S01E01 3 AM
+201   The Punisher                      S01E02 Two Dead Men
+202   The Punisher                      S01E03 Kandahar
+203   The Punisher                      S01E04 Resupply
+204   The Punisher                      S01E05 Gunner
+205   The Punisher                      S01E06 The Judas Goat
+206   The Punisher                      S01E07 Crosshairs
+207   The Punisher                      S01E08 Cold Steel
+208   The Punisher                      S01E09 Front Towards Enemy
+209   The Punisher                      S01E10 Virtue of the Vicious
+210   The Punisher                      S01E11 Danger Close
+211   The Punisher                      S01E12 Home
+212   The Punisher                      S01E13 Memento Mori
+213   Jessica Jones                     S02E01 AKA Start At The Beginning
+214   Jessica Jones                     S02E02 AKA Freak Accident
+215   Jessica Jones                     S02E03 AKA Sole Survivor
+216   Jessica Jones                     S02E04 AKA God Help The Hobo
+217   Jessica Jones                     S02E05 AKA The Octopus
+218   Jessica Jones                     S02E06 AKA Facetime
+219   Jessica Jones                     S02E07 AKA I Want Your Cray Cray
+220   Jessica Jones                     S02E08 AKA Ain't We Got Fun
+221   Jessica Jones                     S02E09 AKA Shark in The Bathtub, Monster in The Bed
+222   Jessica Jones                     S02E10 AKA Pork Chop
+223   Jessica Jones                     S02E11 AKA Three Lives and Counting
+224   Jessica Jones                     S02E12 AKA Pray For My Patsy
+225   Jessica Jones                     S02E13 AKA Playland
+226   Luke Cage                         S02E01 Soul Brother
+227   Luke Cage                         S02E02 Staighten it Out
+228   Luke Cage                         S02E03 Wig Out
+229   Luke Cage                         S02E04 I Get Physical
+230   Luke Cage                         S02E05 All Souled Out
+231   Luke Cage                         S02E06 The Basement
+232   Luke Cage                         S02E07 On and On
+233   Luke Cage                         S02E08 If it Ain't Rough, it Ain't Right
+234   Luke Cage                         S02E09 For Pete's Sake
+235   Luke Cage                         S02E10 The Main Ingredient
+236   Luke Cage                         S02E11 The Creator
+237   Luke Cage                         S02E12 Can't Front on Me
+238   Luke Cage                         S02E13 They Reminisce Over You
+239   Runaways                          S01E01 Reunion
+240   Runaways                          S01E02 Rewind
+241   Runaways                          S01E03 Destiny
+242   Runaways                          S01E04 Fifteen
+243   Runaways                          S01E05 Kingdom
+244   Runaways                          S01E06 Metamorphosis
+245   Runaways                          S01E07 Refraction
+246   Runaways                          S01E08 Tsunami
+247   Runaways                          S01E09 Doomsday
+248   Runaways                          S01E10 Hostile
+249   Runaways                          S02E01 Gimmie Shelter
+250   Runaways                          S02E02 Radio On
+251   Runaways                          S02E03 Double Zeros
+252   Runaways                          S02E04 Old School
+253   Runaways                          S02E05 Rock Bottom
+254   Runaways                          S02E06 Bury Another
+255   Runaways                          S02E07 Last Rites
+256   Runaways                          S02E08 Past Life
+257   Runaways                          S02E09 Big Shot
+258   Runaways                          S02E10 Hostile Takeover
+259   Runaways                          S02E11 Last Waltz
+260   Runaways                          S02E12 Earth Angel
+261   Runaways                          S02E13 Split Up
+262   Iron First                        S02E01 The Fury Of Iron Fist
+263   Iron First                        S02E02 The City's Not For Burning
+264   Iron First                        S02E03 This Deadly Secret
+265   Iron First                        S02E04 Target: Iron Fist
+266   Iron First                        S02E05 Heart Of The Dragon
+267   Iron First                        S02E06 The Dragon Dies At Dawn
+268   Iron First                        S02E07 Morning Of The Mindstorm
+269   Iron First                        S02E08 Citadel On The Edge Of Vengeance
+270   Iron First                        S02E09 War Without End
+271   Iron First                        S02E10 A Duel Of Iron
+272   Daredevil                         S03E01 Resurrection
+273   Daredevil                         S03E02 Please
+274   Daredevil                         S03E03 No Good Deed
+275   Daredevil                         S03E04 Blindsided
+276   Daredevil                         S03E05 The Perfect Game
+277   Daredevil                         S03E06 The Devil You Know
+278   Daredevil                         S03E07 Aftermath
 278   Daredevil                         S03E08 Upstairs/Downstairs
-279   Daredevil                         S03E09 Revelations
-280   Daredevil                         S03E10 Karen
-281   Daredevil                         S03E11 Reunion
-282   Daredevil                         S03E12 One Last Shot
-283   Daredevil                         S03E13 A New Napkin
-284   The Punisher                      S02E01 Roadhouse Blues
-285   The Punisher                      S02E02 Fight or Flight
-286   The Punisher                      S02E03 Trouble the Water
-287   The Punisher                      S02E04 Scar Tissue
-288   The Punisher                      S02E05 One-Eyed Jacks
-289   The Punisher                      S02E06 Nakazat
-290   The Punisher                      S02E07 One Bad Day
-291   The Punisher                      S02E08 My Brother's Keeper
-292   The Punisher                      S02E09 Flustercluck
-293   The Punisher                      S02E10 The Dark Hearts of Men
-294   The Punisher                      S02E11 The Abyss
-295   The Punisher                      S02E12 Collision Course
-296   The Punisher                      S02E13 The Whirlwind
-297   Jessica Jones                     S03E01 AKA The Perfect Burger
-298   Jessica Jones                     S03E02 AKA You're Welcome
-299   Jessica Jones                     S03E03 AKA I Have No Spleen
-299   Jessica Jones                     S03E04 AKA Customer Service Is Standing By
-300   Jessica Jones                     S03E05 AKA I Wish
-301   Jessica Jones                     S03E06 AKA Sorry Face
-302   Jessica Jones                     S03E07 AKA The Double Half-Wappinger
-303   Jessica Jones                     S03E08 AKA Camera Friendly
-304   Jessica Jones                     S03E09 AKA I Did Something Today
-305   Jessica Jones                     S03E10 AKA Hero Pants
-306   Jessica Jones                     S03E11 AKA Hellcat
-307   Jessica Jones                     S03E12 AKA A Lotta Worms
-308   Jessica Jones                     S03E13 AKA Everything
-309   Agents of S.H.E.I.L.D.            S04E01 The Ghost
-310   Agents of S.H.E.I.L.D.            S04E02 Meet the New Boss
-311   Agents of S.H.E.I.L.D.            S04E03 Uprising
-312   Agents of S.H.E.I.L.D.            S04E04 Let Me Stand Next to Your Fire
-313   Agents of S.H.E.I.L.D.            S04E05 Lockup
-314   Agents of S.H.E.I.L.D.            S04E06 The Good Samaritan
-315   Doctor Strange
-316   Agents of S.H.E.I.L.D.            S04E07 Deals With Our Devils
-317   Agents of S.H.E.I.L.D.            S04E08 The Laws of Inferno Dynamics
-318   Agents of S.H.E.I.L.D. Slingshot  S01E01 Vendetta
-319   Agents of S.H.E.I.L.D. Slingshot  S01E02 John Hancock
-320   Agents of S.H.E.I.L.D. Slingshot  S01E03 Progress
-321   Agents of S.H.E.I.L.D. Slingshot  S01E04 Reunion
-322   Agents of S.H.E.I.L.D. Slingshot  S01E05 Deal Breaker
-323   Agents of S.H.E.I.L.D. Slingshot  S01E06 Justicia
-324   Thor: Ragnarok
-325   Ant-Man and the Wasp
-326   Agents of S.H.E.I.L.D.            S04E09 Broken Promises
-327   Agents of S.H.E.I.L.D.            S04E10 The Patriot
-328   Agents of S.H.E.I.L.D.            S04E11 Wake Up
-329   Agents of S.H.E.I.L.D.            S04E12 Hot Potato Soup
-330   Agents of S.H.E.I.L.D.            S04E13 BOOM
-331   Agents of S.H.E.I.L.D.            S04E14 The Man Behind the Shield
-332   Agents of S.H.E.I.L.D.            S04E15 Self Control
-333   Agents of S.H.E.I.L.D.            S04E16 What If...
-334   Agents of S.H.E.I.L.D.            S04E17 Identity and Change
-335   Agents of S.H.E.I.L.D.            S04E18 No Regrets
-336   Agents of S.H.E.I.L.D.            S04E19 All The Madame's Men
-337   Agents of S.H.E.I.L.D.            S04E20 Farewell, Cruel World!
-338   Agents of S.H.E.I.L.D.            S04E21 The Return
-339   Agents of S.H.E.I.L.D.            S04E22 World's End
-340   Runaways                          S03E01 Smoke and Mirrors
-341   Runaways                          S03E02 The Great Escape
-342   Runaways                          S03E03 Lord of Lies
-343   Runaways                          S03E04 Rite of Thunder
-344   Runaways                          S03E05 Enter The Dreamland
-345   Runaways                          S03E06 Merry Meet Again
-346   Runaways                          S03E07 Left-Hand Path
-347   Runaways                          S03E08 Devil's Torture Chamber
-348   Runaways                          S03E09 The Broken Circle
-349   Agents of S.H.E.I.L.D.            S05E01 Orientation Part 1
-350   Agents of S.H.E.I.L.D.            S05E02 Orientation Part 2
-351   Agents of S.H.E.I.L.D.            S05E03 A Life Spent
-352   Agents of S.H.E.I.L.D.            S05E04 A Life Earned
-353   Agents of S.H.E.I.L.D.            S05E05 Rewind
-354   Agents of S.H.E.I.L.D.            S05E06 Fun & Games
-355   Agents of S.H.E.I.L.D.            S05E07 Together Or Not At All
-356   Agents of S.H.E.I.L.D.            S05E08 The Last Day
-357   Agents of S.H.E.I.L.D.            S05E09 Best Laid Plans
-358   Agents of S.H.E.I.L.D.            S05E10 Past Life
-359   Agents of S.H.E.I.L.D.            S05E11 All the Comforts of Home
-360   Agents of S.H.E.I.L.D.            S05E12 The Real Deal
-361   Agents of S.H.E.I.L.D.            S05E13 Principia
-362   Agents of S.H.E.I.L.D.            S05E14 The Devil Complex
-363   Agents of S.H.E.I.L.D.            S05E15 Rise and Shine
-364   Agents of S.H.E.I.L.D.            S05E16 Inside Voices
-365   Agents of S.H.E.I.L.D.            S05E17 The Honeymoon
-366   Agents of S.H.E.I.L.D.            S05E18 All Roads Lead...
-367   Agents of S.H.E.I.L.D.            S05E19 Option Two
-368   Agents of S.H.E.I.L.D.            S05E20 The One Who Will Save Us All
-369   Agents of S.H.E.I.L.D.            S05E21 The Force of Gravity
-370   Agents of S.H.E.I.L.D.            S05E22 The End
-371   Avengers: Infinity War
-372   Agents of S.H.E.I.L.D.            S06E01 Missing Pieces
-373   Agents of S.H.E.I.L.D.            S06E02 Window of Opportunity
-374   Agents of S.H.E.I.L.D.            S06E03 Fear and Loating on the Planet of Kitson
-375   Agents of S.H.E.I.L.D.            S06E04 Code Yellow
-376   Agents of S.H.E.I.L.D.            S06E05 The Other Thing
-377   Agents of S.H.E.I.L.D.            S06E06 Inescapable
-378   Agents of S.H.E.I.L.D.            S06E07 Toldja
-379   Agents of S.H.E.I.L.D.            S06E08 Collision Course Part 1
-380   Agents of S.H.E.I.L.D.            S06E09 Collision Course Part 2
-381   Agents of S.H.E.I.L.D.            S06E10 Leap
-382   Agents of S.H.E.I.L.D.            S06E11 From the Ashes
-383   Agents of S.H.E.I.L.D.            S06E12 The Sign
-384   Agents of S.H.E.I.L.D.            S06E13 New Life
-385   Runaways                          S03E10 Cheat The Gallows
-386   Avengers: Endgame
-387   Loki                              S01E01 Glorious Purpose
-388   Loki                              S01E02 The Variant
-389   Loki                              S01E03 Lamentis
-390   Loki                              S01E04 The Nexus Event
-391   Loki                              S01E05 Journey Into Mystery
-392   Loki                              S01E06 For All Time. Always.
-393   WandaVision                      S01E01 Filmed Before a Live Studio Audience
-394   WandaVision                      S01E02 Don't Touch That Dial
-395   WandaVision                      S01E03 Now In Color
-396   WandaVision                      S01E04 We Interrupt This Program
-397   WandaVision                      S01E05 On A Very Special Episode...
-398   WandaVision                      S01E06 All-New Halloweeen Spooktacular!
-399   WandaVision                      S01E07 Breaking the Fourth Wall
-400   WandaVision                      S01E08 Previously On
-401   WandaVision                      S01E09 The Series Finale
-402   The Falcon And The Winter Soldier S01E01 New World Order
-403   The Falcon And The Winter Soldier S01E02 The Star-Spangled Man
-404   The Falcon And The Winter Soldier S01E03 Power Broker
-405   The Falcon And The Winter Soldier S01E04 The Whole World is Watching
-406   The Falcon And The Winter Soldier S01E05 Truth
-407   The Falcon And The Winter Soldier S01E06 One World, One People
-408   Spider-Man: Far From Home
-409   Helstrom                          S01E01 Mother's Little Helpers
-410   Helstrom                          S01E02 Vlaticum
-411   Helstrom                          S01E03 The One Who Got Away
-412   Helstrom                          S01E04 Containment
-413   Helstrom                          S01E05 Committed
-414   Helstrom                          S01E06 Leviathan
-415   Helstrom                          S01E07 Scars
-416   Helstrom                          S01E08 Underneath
-417   Helstrom                          S01E09 Vessels
-418   Helstrom                          S01E10 Hell Storm
+280   Daredevil                         S03E09 Revelations
+281   Daredevil                         S03E10 Karen
+282   Daredevil                         S03E11 Reunion
+283   Daredevil                         S03E12 One Last Shot
+284   Daredevil                         S03E13 A New Napkin
+285   The Punisher                      S02E01 Roadhouse Blues
+286   The Punisher                      S02E02 Fight or Flight
+287   The Punisher                      S02E03 Trouble the Water
+288   The Punisher                      S02E04 Scar Tissue
+289   The Punisher                      S02E05 One-Eyed Jacks
+290   The Punisher                      S02E06 Nakazat
+291   The Punisher                      S02E07 One Bad Day
+292   The Punisher                      S02E08 My Brother's Keeper
+293   The Punisher                      S02E09 Flustercluck
+294   The Punisher                      S02E10 The Dark Hearts of Men
+295   The Punisher                      S02E11 The Abyss
+296   The Punisher                      S02E12 Collision Course
+297   The Punisher                      S02E13 The Whirlwind
+298   Jessica Jones                     S03E01 AKA The Perfect Burger
+299   Jessica Jones                     S03E02 AKA You're Welcome
+300   Jessica Jones                     S03E03 AKA I Have No Spleen
+301   Jessica Jones                     S03E04 AKA Customer Service Is Standing By
+302   Jessica Jones                     S03E05 AKA I Wish
+303   Jessica Jones                     S03E06 AKA Sorry Face
+304   Jessica Jones                     S03E07 AKA The Double Half-Wappinger
+305   Jessica Jones                     S03E08 AKA Camera Friendly
+306   Jessica Jones                     S03E09 AKA I Did Something Today
+307   Jessica Jones                     S03E10 AKA Hero Pants
+308   Jessica Jones                     S03E11 AKA Hellcat
+309   Jessica Jones                     S03E12 AKA A Lotta Worms
+310   Jessica Jones                     S03E13 AKA Everything
+
+311   Agents of S.H.E.I.L.D.            S04E01 The Ghost
+312   Agents of S.H.E.I.L.D.            S04E02 Meet the New Boss
+313   Agents of S.H.E.I.L.D.            S04E03 Uprising
+314   Agents of S.H.E.I.L.D.            S04E04 Let Me Stand Next to Your Fire
+315   Agents of S.H.E.I.L.D.            S04E05 Lockup
+316   Agents of S.H.E.I.L.D.            S04E06 The Good Samaritan
+317   Doctor Strange
+318   Agents of S.H.E.I.L.D.            S04E07 Deals With Our Devils
+310   Agents of S.H.E.I.L.D.            S04E08 The Laws of Inferno Dynamics
+320   Agents of S.H.E.I.L.D. Slingshot  S01E01 Vendetta
+321   Agents of S.H.E.I.L.D. Slingshot  S01E02 John Hancock
+322   Agents of S.H.E.I.L.D. Slingshot  S01E03 Progress
+323   Agents of S.H.E.I.L.D. Slingshot  S01E04 Reunion
+324   Agents of S.H.E.I.L.D. Slingshot  S01E05 Deal Breaker
+325   Agents of S.H.E.I.L.D. Slingshot  S01E06 Justicia
+326   Thor: Ragnarok
+327   Ant-Man and the Wasp
+328   Agents of S.H.E.I.L.D.            S04E09 Broken Promises
+329   Agents of S.H.E.I.L.D.            S04E10 The Patriot
+330   Agents of S.H.E.I.L.D.            S04E11 Wake Up
+331   Agents of S.H.E.I.L.D.            S04E12 Hot Potato Soup
+332   Agents of S.H.E.I.L.D.            S04E13 BOOM
+333   Agents of S.H.E.I.L.D.            S04E14 The Man Behind the Shield
+334   Agents of S.H.E.I.L.D.            S04E15 Self Control
+335   Agents of S.H.E.I.L.D.            S04E16 What If...
+336   Agents of S.H.E.I.L.D.            S04E17 Identity and Change
+337   Agents of S.H.E.I.L.D.            S04E18 No Regrets
+338   Agents of S.H.E.I.L.D.            S04E19 All The Madame's Men
+339   Agents of S.H.E.I.L.D.            S04E20 Farewell, Cruel World!
+340   Agents of S.H.E.I.L.D.            S04E21 The Return
+341   Agents of S.H.E.I.L.D.            S04E22 World's End
+342   Runaways                          S03E01 Smoke and Mirrors
+343   Runaways                          S03E02 The Great Escape
+344   Runaways                          S03E03 Lord of Lies
+345   Runaways                          S03E04 Rite of Thunder
+346   Runaways                          S03E05 Enter The Dreamland
+347   Runaways                          S03E06 Merry Meet Again
+348   Runaways                          S03E07 Left-Hand Path
+349   Runaways                          S03E08 Devil's Torture Chamber
+350   Runaways                          S03E09 The Broken Circle
+351   Agents of S.H.E.I.L.D.            S05E01 Orientation Part 1
+352   Agents of S.H.E.I.L.D.            S05E02 Orientation Part 2
+353   Agents of S.H.E.I.L.D.            S05E03 A Life Spent
+354   Agents of S.H.E.I.L.D.            S05E04 A Life Earned
+355   Agents of S.H.E.I.L.D.            S05E05 Rewind
+356   Agents of S.H.E.I.L.D.            S05E06 Fun & Games
+357   Agents of S.H.E.I.L.D.            S05E07 Together Or Not At All
+358   Agents of S.H.E.I.L.D.            S05E08 The Last Day
+359   Agents of S.H.E.I.L.D.            S05E09 Best Laid Plans
+360   Agents of S.H.E.I.L.D.            S05E10 Past Life
+361   Agents of S.H.E.I.L.D.            S05E11 All the Comforts of Home
+362   Agents of S.H.E.I.L.D.            S05E12 The Real Deal
+363   Agents of S.H.E.I.L.D.            S05E13 Principia
+364   Agents of S.H.E.I.L.D.            S05E14 The Devil Complex
+365   Agents of S.H.E.I.L.D.            S05E15 Rise and Shine
+366   Agents of S.H.E.I.L.D.            S05E16 Inside Voices
+367   Agents of S.H.E.I.L.D.            S05E17 The Honeymoon
+368   Agents of S.H.E.I.L.D.            S05E18 All Roads Lead...
+369   Agents of S.H.E.I.L.D.            S05E19 Option Two
+370   Agents of S.H.E.I.L.D.            S05E20 The One Who Will Save Us All
+371   Agents of S.H.E.I.L.D.            S05E21 The Force of Gravity
+372   Agents of S.H.E.I.L.D.            S05E22 The End
+373   Avengers: Infinity War
+374   Agents of S.H.E.I.L.D.            S06E01 Missing Pieces
+375   Agents of S.H.E.I.L.D.            S06E02 Window of Opportunity
+376   Agents of S.H.E.I.L.D.            S06E03 Fear and Loating on the Planet of Kitson
+377   Agents of S.H.E.I.L.D.            S06E04 Code Yellow
+378   Agents of S.H.E.I.L.D.            S06E05 The Other Thing
+379   Agents of S.H.E.I.L.D.            S06E06 Inescapable
+380   Agents of S.H.E.I.L.D.            S06E07 Toldja
+381   Agents of S.H.E.I.L.D.            S06E08 Collision Course Part 1
+382   Agents of S.H.E.I.L.D.            S06E09 Collision Course Part 2
+383   Agents of S.H.E.I.L.D.            S06E10 Leap
+384   Agents of S.H.E.I.L.D.            S06E11 From the Ashes
+385   Agents of S.H.E.I.L.D.            S06E12 The Sign
+386   Agents of S.H.E.I.L.D.            S06E13 New Life
+387   Agents of S.H.E.I.K.D.            S07E01 The New Deal
+388   Agents of S.H.E.I.K.D.            S07E02 Know Your Onions
+389   Agents of S.H.E.I.K.D.            S07E03 Alien Commies from the Future
+390   Agents of S.H.E.I.K.D.            S07E04 Out of the Past
+391   Agents of S.H.E.I.K.D.            S07E05 A Trout in the Milk
+392   Agents of S.H.E.I.K.D.            S07E06 Adapt or Die
+393   Agents of S.H.E.I.K.D.            S07E07 The Totally Excellent Adventures of Mack and the D
+394   Agents of S.H.E.I.K.D.            S07E08 After, Before
+395   Agents of S.H.E.I.K.D.            S07E09 As I Have Always Been
+396   Agents of S.H.E.I.K.D.            S07E10 Stolen
+397   Agents of S.H.E.I.K.D.            S07E11 Brand New Day
+398   Agents of S.H.E.I.K.D.            S07E12 The End is at Hand
+399   Agents of S.H.E.I.K.D.            S07E13 What We're Fighting For
+400   Runaways                          S03E10 Cheat The Gallows
+401   Avengers: Endgame
+402   Loki                              S01E01 Glorious Purpose
+403   Loki                              S01E02 The Variant
+404   Loki                              S01E03 Lamentis
+405   Loki                              S01E04 The Nexus Event
+406   Loki                              S01E05 Journey Into Mystery
+407   Loki                              S01E06 For All Time. Always.
+408   WandaVision                       S01E01 Filmed Before a Live Studio Audience
+409   WandaVision                       S01E02 Don't Touch That Dial
+410   WandaVision                       S01E03 Now In Color
+411   WandaVision                       S01E04 We Interrupt This Program
+412   WandaVision                       S01E05 On A Very Special Episode...
+413   WandaVision                       S01E06 All-New Halloweeen Spooktacular!
+414   WandaVision                       S01E07 Breaking the Fourth Wall
+415   WandaVision                       S01E08 Previously On
+416   WandaVision                       S01E09 The Series Finale
+417   Shang-Chi And The Legend Of The Ten Rings
+418   The Falcon And The Winter Soldier S01E01 New World Order
+419   The Falcon And The Winter Soldier S01E02 The Star-Spangled Man
+420   The Falcon And The Winter Soldier S01E03 Power Broker
+421   The Falcon And The Winter Soldier S01E04 The Whole World is Watching
+422   The Falcon And The Winter Soldier S01E05 Truth
+423   The Falcon And The Winter Soldier S01E06 One World, One People
+424   Helstrom                          S01E01 Mother's Little Helpers
+425   Helstrom                          S01E02 Vlaticum
+426   Helstrom                          S01E03 The One Who Got Away
+427   Helstrom                          S01E04 Containment
+428   Helstrom                          S01E05 Committed
+429   Helstrom                          S01E06 Leviathan
+430   Helstrom                          S01E07 Scars
+431   Helstrom                          S01E08 Underneath
+432   Helstrom                          S01E09 Vessels
+433   Helstrom                          S01E10 Hell Storm
+434   Spider-Man
+435   Spider-Man 2
+436   Spider-Man 3
+437   The Amazing Spider-Man
+438   The Amazing Spider-Man 2
+439   Venom
+440   Venom: Let There Be Carnage
+441   Spider-Man: Far From Home
+442   Spider-Man: No Way Home
+443   Morbius
+444   Doctor Strange in the Multiverse Of Madness
+445   Hawkeye                           S01E01 Never Meet Your Heroes
+446   Hawkeye                           S01E02 Hide and Seek
+447   Hawkeye                           S01E03 Echoes
+448   Hawkeye                           S01E04 Partners, Am I Right?
+449   Hawkeye                           S01E05 Ronin
+450   Hawkeye                           S01E06 So This Is Christmas?
+451   Moon Knight                       S01E01 The Goldfish Problem
+452   Moon Knight                       S01E02 Summon the Suit
+453   Moon Knight                       S01E03 The Friendly Type
+454   Moon Knight                       S01E04 The Tomb
+455   Moon Knight                       S01E05 Asylum
+456   Moon Knight                       S01E06 Gods and Monsters
+457   She-Hulk: Attorney at Law         S01E01 A Normal Amount Of Rage
+458   She-Hulk: Attorney at Law         S01E02 Superhuman Law
+459   She-Hulk: Attorney at Law         S01E03 The People vs. Emil Blonksy
+460   She-Hulk: Attorney at Law         S01E04 Is This Not Real Magic?
+461   Ms. Marvel                        S01E01 Generation Why
+462   Ms. Marvel                        S01E02 Crushed
+463   Ms. Marvel                        S01E03 Destined
+464   Ms. Marvel                        S01E04 Seeing Red
+465   Ms. Marvel                        S01E05 Time and Again
+466   Ms. Marvel                        S01E06 No Normal
+467   Thor: Love And Thunder
 ````
