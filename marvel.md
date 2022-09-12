@@ -326,7 +326,6 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 308   Jessica Jones                     S03E11 AKA Hellcat
 309   Jessica Jones                     S03E12 AKA A Lotta Worms
 310   Jessica Jones                     S03E13 AKA Everything
-
 311   Agents of S.H.E.I.L.D.            S04E01 The Ghost
 312   Agents of S.H.E.I.L.D.            S04E02 Meet the New Boss
 313   Agents of S.H.E.I.L.D.            S04E03 Uprising
@@ -418,70 +417,71 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 399   Agents of S.H.E.I.K.D.            S07E13 What We're Fighting For
 400   Runaways                          S03E10 Cheat The Gallows
 401   Avengers: Endgame
-402   Loki                              S01E01 Glorious Purpose
-403   Loki                              S01E02 The Variant
-404   Loki                              S01E03 Lamentis
-405   Loki                              S01E04 The Nexus Event
-406   Loki                              S01E05 Journey Into Mystery
-407   Loki                              S01E06 For All Time. Always.
-408   WandaVision                       S01E01 Filmed Before a Live Studio Audience
-409   WandaVision                       S01E02 Don't Touch That Dial
-410   WandaVision                       S01E03 Now In Color
-411   WandaVision                       S01E04 We Interrupt This Program
-412   WandaVision                       S01E05 On A Very Special Episode...
-413   WandaVision                       S01E06 All-New Halloweeen Spooktacular!
-414   WandaVision                       S01E07 Breaking the Fourth Wall
-415   WandaVision                       S01E08 Previously On
-416   WandaVision                       S01E09 The Series Finale
-417   Shang-Chi And The Legend Of The Ten Rings
-418   The Falcon And The Winter Soldier S01E01 New World Order
-419   The Falcon And The Winter Soldier S01E02 The Star-Spangled Man
-420   The Falcon And The Winter Soldier S01E03 Power Broker
-421   The Falcon And The Winter Soldier S01E04 The Whole World is Watching
-422   The Falcon And The Winter Soldier S01E05 Truth
-423   The Falcon And The Winter Soldier S01E06 One World, One People
-424   Helstrom                          S01E01 Mother's Little Helpers
-425   Helstrom                          S01E02 Vlaticum
-426   Helstrom                          S01E03 The One Who Got Away
-427   Helstrom                          S01E04 Containment
-428   Helstrom                          S01E05 Committed
-429   Helstrom                          S01E06 Leviathan
-430   Helstrom                          S01E07 Scars
-431   Helstrom                          S01E08 Underneath
-432   Helstrom                          S01E09 Vessels
-433   Helstrom                          S01E10 Hell Storm
-434   Spider-Man
-435   Spider-Man 2
-436   Spider-Man 3
-437   The Amazing Spider-Man
-438   The Amazing Spider-Man 2
-439   Venom
-440   Venom: Let There Be Carnage
-441   Spider-Man: Far From Home
-442   Spider-Man: No Way Home
-443   Morbius
-444   Doctor Strange in the Multiverse Of Madness
-445   Hawkeye                           S01E01 Never Meet Your Heroes
-446   Hawkeye                           S01E02 Hide and Seek
-447   Hawkeye                           S01E03 Echoes
-448   Hawkeye                           S01E04 Partners, Am I Right?
-449   Hawkeye                           S01E05 Ronin
-450   Hawkeye                           S01E06 So This Is Christmas?
-451   Moon Knight                       S01E01 The Goldfish Problem
-452   Moon Knight                       S01E02 Summon the Suit
-453   Moon Knight                       S01E03 The Friendly Type
-454   Moon Knight                       S01E04 The Tomb
-455   Moon Knight                       S01E05 Asylum
-456   Moon Knight                       S01E06 Gods and Monsters
-457   She-Hulk: Attorney at Law         S01E01 A Normal Amount Of Rage
-458   She-Hulk: Attorney at Law         S01E02 Superhuman Law
-459   She-Hulk: Attorney at Law         S01E03 The People vs. Emil Blonksy
-460   She-Hulk: Attorney at Law         S01E04 Is This Not Real Magic?
-461   Ms. Marvel                        S01E01 Generation Why
-462   Ms. Marvel                        S01E02 Crushed
-463   Ms. Marvel                        S01E03 Destined
-464   Ms. Marvel                        S01E04 Seeing Red
-465   Ms. Marvel                        S01E05 Time and Again
-466   Ms. Marvel                        S01E06 No Normal
-467   Thor: Love And Thunder
+402   Eternals
+403   Loki                              S01E01 Glorious Purpose
+404   Loki                              S01E02 The Variant
+405   Loki                              S01E03 Lamentis
+406   Loki                              S01E04 The Nexus Event
+407   Loki                              S01E05 Journey Into Mystery
+408   Loki                              S01E06 For All Time. Always.
+409   WandaVision                       S01E01 Filmed Before a Live Studio Audience
+410   WandaVision                       S01E02 Don't Touch That Dial
+411   WandaVision                       S01E03 Now In Color
+412   WandaVision                       S01E04 We Interrupt This Program
+413   WandaVision                       S01E05 On A Very Special Episode...
+414   WandaVision                       S01E06 All-New Halloweeen Spooktacular!
+415   WandaVision                       S01E07 Breaking the Fourth Wall
+416   WandaVision                       S01E08 Previously On
+417   WandaVision                       S01E09 The Series Finale
+418   Shang-Chi And The Legend Of The Ten Rings
+419   The Falcon And The Winter Soldier S01E01 New World Order
+420   The Falcon And The Winter Soldier S01E02 The Star-Spangled Man
+421   The Falcon And The Winter Soldier S01E03 Power Broker
+422   The Falcon And The Winter Soldier S01E04 The Whole World is Watching
+423   The Falcon And The Winter Soldier S01E05 Truth
+424   The Falcon And The Winter Soldier S01E06 One World, One People
+425   Helstrom                          S01E01 Mother's Little Helpers
+426   Helstrom                          S01E02 Vlaticum
+427   Helstrom                          S01E03 The One Who Got Away
+428   Helstrom                          S01E04 Containment
+429   Helstrom                          S01E05 Committed
+430   Helstrom                          S01E06 Leviathan
+431   Helstrom                          S01E07 Scars
+432   Helstrom                          S01E08 Underneath
+433   Helstrom                          S01E09 Vessels
+434   Helstrom                          S01E10 Hell Storm
+435   Spider-Man
+436   Spider-Man 2
+437   Spider-Man 3
+438   The Amazing Spider-Man
+439   The Amazing Spider-Man 2
+440   Venom
+441   Venom: Let There Be Carnage
+442   Spider-Man: Far From Home
+443   Spider-Man: No Way Home
+444   Morbius
+445   Doctor Strange in the Multiverse Of Madness
+446   Hawkeye                           S01E01 Never Meet Your Heroes
+447   Hawkeye                           S01E02 Hide and Seek
+448   Hawkeye                           S01E03 Echoes
+449   Hawkeye                           S01E04 Partners, Am I Right?
+450   Hawkeye                           S01E05 Ronin
+451   Hawkeye                           S01E06 So This Is Christmas?
+452   Moon Knight                       S01E01 The Goldfish Problem
+453   Moon Knight                       S01E02 Summon the Suit
+454   Moon Knight                       S01E03 The Friendly Type
+455   Moon Knight                       S01E04 The Tomb
+456   Moon Knight                       S01E05 Asylum
+457   Moon Knight                       S01E06 Gods and Monsters
+458   She-Hulk: Attorney at Law         S01E01 A Normal Amount Of Rage
+459   She-Hulk: Attorney at Law         S01E02 Superhuman Law
+460   She-Hulk: Attorney at Law         S01E03 The People vs. Emil Blonksy
+461   She-Hulk: Attorney at Law         S01E04 Is This Not Real Magic?
+462   Ms. Marvel                        S01E01 Generation Why
+463   Ms. Marvel                        S01E02 Crushed
+464   Ms. Marvel                        S01E03 Destined
+465   Ms. Marvel                        S01E04 Seeing Red
+466   Ms. Marvel                        S01E05 Time and Again
+467   Ms. Marvel                        S01E06 No Normal
+468   Thor: Love And Thunder
 ````
