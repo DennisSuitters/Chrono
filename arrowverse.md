@@ -535,60 +535,60 @@ https://www.geekyregards.com/p/arrowverse-viewing-order.html
 532	The Flash	                S06E08	The Last Temptation of Barry Allen, Pt. 2
 533	Arrow	                    S08E07	Purgatory
 534	Supergirl	                S05E09	Crisis on Infinite Earths: Part One
-535	Black Lightning	          S03E09	The Book of Resistance: Chapter Four: Earth Crisis
-536	Batwoman	                S01E09	Crisis on Infinite Earths: Part Two
+535	Batwoman	                S01E09	Crisis on Infinite Earths: Part Two
+536	Black Lightning	          S03E09	The Book of Resistance: Chapter Four: Earth Crisis
 537	The Flash	                S06E09	Crisis on Infinite Earths: Part Three
-538	DC's Legends of Tomorrow	S05E0—	Crisis on Infinite Earths: Part Five
-539	Arrow	                    S08E08	Crisis on Infinite Earths: Part Four
+538	Arrow	                    S08E08	Crisis on Infinite Earths: Part Four
+539	DC's Legends of Tomorrow	S05E0—	Crisis on Infinite Earths: Part Five
 540	Batwoman	                S01E10	How Queer Everything Is Today!
 541	Supergirl	                S05E10	The Bottle Episode
 542	Black Lightning	          S03E10	The Book of Markovia: Chapter One: Blessings and Curses Reborn
-543	DC's Legends of Tomorrow	S05E01	Meet the Legends
-544	Arrow	                    S08E09	Green Arrow & The Canaries
+543	Arrow	                    S08E09	Green Arrow & The Canaries
+544	DC's Legends of Tomorrow	S05E01	Meet the Legends
 545	Batwoman	                S01E11	An Un-Birthday Present
 546	Supergirl	                S05E11	Back From the Future - Part One
 547	Black Lightning	          S03E11	The Book of Markovia: Chapter Two: Lynn's Addiction
 548	Arrow	                    S08E10	Fadeout
 549	Black Lightning	          S03E12	The Book of Markovia: Chapter Three: Motherless ID
-550	DC's Legends of Tomorrow	S05E02	Miss Me, Kiss Me, Love Me
-551	The Flash	                S06E10	Marathon
+550	The Flash	                S06E10	Marathon
+551	DC's Legends of Tomorrow	S05E02	Miss Me, Kiss Me, Love Me
 552	Black Lightning	          S03E13	The Book of Markovia: Chapter Four: Grab the Strap
-553	DC's Legends of Tomorrow	S05E03	Slay Anything
-554	The Flash	                S06E11	Love Is A Battlefield
+553	The Flash	                S06E11	Love Is A Battlefield
+554	DC's Legends of Tomorrow	S05E03	Slay Anything
 555	Batwoman	                S01E12	Take Your Choice
 556	Supergirl	                S05E12	Back From the Future - Part Two
-557	DC's Legends of Tomorrow	S05E04	A Head of Her Time
-558	The Flash	                S06E12	A Girl Named Sue
+557	The Flash	                S06E12	A Girl Named Sue
+558	DC's Legends of Tomorrow	S05E04	A Head of Her Time
 559	Batwoman	                S01E13	Drink Me
 560	Supergirl	                S05E13	It's a Super Life
 561	Black Lightning	          S03E14	The Book of War: Chapter One: Homecoming
-562	DC's Legends of Tomorrow	S05E05	Mortal Khanbat
-563	The Flash	                S06E13	Grodd Friended Me
+562	The Flash	                S06E13	Grodd Friended Me
+563	DC's Legends of Tomorrow	S05E05	Mortal Khanbat
 564	Black Lightning	          S03E15	The Book of War: Chapter Two: Freedom Ain't Free
 565	Batwoman	                S01E14	Grinning From Ear to Ear
 566	Supergirl	                S05E14	The Bodyguard
 567	Black Lightning	          S03E16	The Book of War: Chapter Three: Liberation
-568	DC's Legends of Tomorrow	S05E06	Mr. Parker's Cul-De-Sac
-569	The Flash	                S06E14	Death of the Speed Force
+568	The Flash	                S06E14	Death of the Speed Force
+569	DC's Legends of Tomorrow	S05E06	Mr. Parker's Cul-De-Sac
 570	Batwoman	                S01E15	Off With Her Head
 571	Supergirl	                S05E15	Reality Bytes
-572	DC's Legends of Tomorrow	S05E07	Romeo V. Juliet: Dawn of Justness
-573	The Flash	                S06E15	The Exorcism of Nash Wells
+572	The Flash	                S06E15	The Exorcism of Nash Wells
+573	DC's Legends of Tomorrow	S05E07	Romeo V. Juliet: Dawn of Justness
 574	Batwoman	                S01E16	Through the Looking-Glass
 575	Supergirl	                S05E16	Alex in Wonderland
-576	DC's Legends of Tomorrow	S05E08	Zari, Not Zari
-577	The Flash	                S06E16	So Long and Goodnight
+576	The Flash	                S06E16	So Long and Goodnight
+577	DC's Legends of Tomorrow	S05E08	Zari, Not Zari
 578	Batwoman	                S01E17	A Narrow Escape
-579	DC's Legends of Tomorrow	S05E09	The Great British Fake Off
-580	The Flash	                S06E17	Liberation
+579	The Flash	                S06E17	Liberation
+580	DC's Legends of Tomorrow	S05E09	The Great British Fake Off
 581	Batwoman	                S01E18	If You Believe In Me, I'll Believe In You
 582	Supergirl	                S05E17	Deus Lex Machina
-583	DC's Legends of Tomorrow	S05E10	Ship Broken
-584	The Flash	                S06E18	Pay the Piper
+583	The Flash	                S06E18	Pay the Piper
+584	DC's Legends of Tomorrow	S05E10	Ship Broken
 585	Batwoman	                S01E19	A Secret Kept From All the Rest
 586	Supergirl	                S05E18	The Missing Link
-587	DC's Legends of Tomorrow	S05E11	Freaks and Greeks
-588	The Flash	                S06E19	Success Is Assured
+587	The Flash	                S06E19	Success Is Assured
+588	DC's Legends of Tomorrow	S05E11	Freaks and Greeks
 589	Batwoman	                S01E20	O, Mouse!
 590	Supergirl	                S05E19	Immortal Kombat
 591 Stargirl                  S01E01  Pilot
@@ -607,4 +607,181 @@ https://www.geekyregards.com/p/arrowverse-viewing-order.html
 603 Stargirl                  S01E11  Shining Knight
 604 Stargirl                  S01E12  Stars & S.T.R.I.P.E Part One
 605 Stargirl                  S01E13  Stars & S.T.R.I.P.E Part Two
+606	Batwoman                  S02E01  Whatever Happened to Kate Kane?
+607	Batwoman                  S02E02  Prior Criminal History
+608	Batwoman                  S02E03  Bat Girl Magic!
+609	Black Lightning           S04E01  The Book of Reconstruction: Chapter One: Collateral Damage
+610	Batwoman                  S02E04  Fair Skin, Blue Eyes
+611	Black Lightning           S04E02  The Book of Reconstruction: Chapter Two: Unacceptable Losses
+612	Batwoman                  S02E05  Gore on Canvas
+613	Black Lightning           S04E03  The Book of Reconstruction: Chapter Three: Despite All My Rage...
+614	Superman & Lois           S01E01  Pilot
+615	Batwoman                  S02E06  Do Not Resuscitate
+616	Black Lightning           S04E04  The Book of Reconstruction: Chapter Four: A Light in the Darkness
+617	The Flash                 S07E01  All's Wells That Ends Wells
+618	Superman & Lois           S01E02  Heritage
+619	Black Lightning           S04E05  The Book of Ruin: Chapter One: Picking Up the Pieces
+620	The Flash                 S07E02  The Speed of Thought
+621	Superman & Lois           S01E03  The Perks of Not Being a Wallflower
+622	Batwoman                  S02E07  It's Best You Stop Digging
+623	Black Lightning           S04E06  The Book of Ruin: Chapter Two: Theseus's Ship
+624	The Flash                 S07E03  Mother
+625	Superman & Lois           S01E04  Haywire
+626	Batwoman                  S02E08  Survived Much Worse
+627	The Flash                 S07E04  Central City Strong
+628	Superman & Lois           S01E05  The Best of Smallville
+629	Batwoman                  S02E09  Rule #1
+630	The Flash                 S07E05  Fear Me
+631	Supergirl                 S06E01  Rebirth
+632	The Flash                 S07E06  The One With The Nineties
+633	Supergirl                 S06E02  A Few Good Women
+634	Batwoman                  S02E10  Time Off for Good Behavior
+635	Black Lightning           S04E07  Painkiller
+636	The Flash                 S07E07  Growing Pains
+637	Supergirl                 S06E03  Phantom Menaces
+638	Batwoman                  S02E11  Arrive Alive
+639	Black Lightning           S04E08  The Book of Ruin: Chapter Three: Things Fall Apart
+640	Supergirl                 S06E04  Lost Souls
+641	Black Lightning           S04E09  The Book of Ruin: Chapter Four: Lyding
+642	Supergirl                 S06E05  Prom Night!
+643	Batwoman                  S02E12  Initiate Self-Destruct
+644	DC's Legends of Tomorrow  S06E01  Ground Control to Sara Lance
+645	Black Lightning           S04E10  The Book of Reunification: Chapter One: Revelations
+646	The Flash                 S07E08  The People v. Killer Frost
+647	Supergirl                 S06E06  Prom Again!
+648	Batwoman                  S02E13  I'll Give You a Clue
+649	DC's Legends of Tomorrow  S06E02  Meat: The Legends
+650	Black Lightning           S04E11  The Book of Reunification: Chapter Two: Trial and Errors
+651	The Flash                 S07E09  Timeless
+652	Supergirl                 S06E07  Fear Knot
+653	Batwoman                  S02E14  And Justice For All
+654	DC's Legends of Tomorrow  S06E03  The Ex-Factor
+655	Black Lightning           S04E12  The Book of Resurrection: Chapter One: Crossroads
+656	The Flash                 S07E10  Family Matters, Part 1
+657	Superman & Lois           S01E06  Broken Trust
+658	Black Lightning           S04E13  The Book of Resurrection: Chapter Two: Closure
+659	The Flash                 S07E11  Family Matters, Part 2
+660	Superman & Lois           S01E07  Man of Steel
+661	DC's Legends of Tomorrow  S06E04  Bay of Squids
+662	Superman & Lois           S01E08  Holding the Wrench
+663	Batwoman                  S02E15  Armed and Dangerous
+664	DC's Legends of Tomorrow  S06E05  The Satanist's Apprentice
+665	The Flash                 S07E12  Good-Bye Vibrations
+667	Superman & Lois           S01E09  Loyal Subjekts
+668	Batwoman                  S02E16  Rebirth
+669	DC's Legends of Tomorrow  S06E06  Bishop's Gambit
+670	The Flash                 S07E13  Masquerade
+671	Superman & Lois           S01E10  O Mother, Where Art Thou?
+672	Batwoman                  S02E17  Kane, Kate
+673	DC's Legends of Tomorrow  S06E07  Back to the Finale: Part II
+674	The Flash                 S07E14  Rayo de Luz
+675	Superman & Lois           S01E11  A Brief Reminiscence In-Between Cataclysmic Events
+676	Batwoman                  S02E18  Power
+677	DC's Legends of Tomorrow  S06E08  Stressed Western
+678	The Flash                 S07E15  Enemy At the Gates
+679	The Flash                 S07E16  P.O.W.
+680	DC's Legends of Tomorrow  S06E09  This is Gus
+681	The Flash                 S07E17  Heart of the Matter, Part 1
+682	Superman & Lois           S01E12  Through the Valley of Death
+683	DC's Legends of Tomorrow  S06E10  Bad Blood
+684	The Flash                 S07E18  Heart of the Matter, Part 2
+685	Superman & Lois           S01E13  Fail Safe
+686	DC's Legends of Tomorrow  S06E11  The Final Frame
+687	Superman & Lois           S01E14  The Eradicator
+688	Stargirl                  S02E01  Summer School: Chapter One
+689	DC's Legends of Tomorrow  S06E12  Bored On Board Onboard
+690	Superman & Lois           S01E15  Last Sons of Krypton
+691	Stargirl                  S02E02  Summer School: Chapter Two
+692	DC's Legends of Tomorrow  S06E13  Silence of the Sonograms
+693	Supergirl                 S06E08  Welcome Back, Kara!
+694	Stargirl                  S02E03  Summer School: Chapter Three
+695	DC's Legends of Tomorrow  S06E14  There Will Be Brood
+696	Supergirl                 S06E09  Dream Weaver
+697	Stargirl                  S02E04  Summer School: Chapter Four
+698	DC's Legends of Tomorrow  S06E15  The Fungus Amongus
+699	Supergirl                 S06E10  Still I Rise
+700	Stargirl                  S02E05  Summer School: Chapter Five
+701	Supergirl                 S06E11  Mxy in the Middle
+702	Stargirl                  S02E06  Summer School: Chapter Six
+703	Supergirl                 S06E12  Blind Spots
+704	Stargirl                  S02E07  Summer School: Chapter Seven
+705	Supergirl                 S06E13  The Gauntlet
+706	Stargirl                  S02E08  Summer School: Chapter Eight
+707	Supergirl                 S06E14  Magical Thinking
+708	Stargirl                  S02E09  Summer School: Chapter Nine
+709	Supergirl                 S06E15  Hope for Tomorrow
+710	Stargirl                  S02E10  Summer School: Chapter Ten
+711	Batwoman                  S03E01  Mad As a Hatter
+712	DC's Legends of Tomorrow  S07E01  The Bullet Blondes
+713	Supergirl                 S06E16  Nightmare in National City
+714	Stargirl                  S02E11  Summer School: Chapter Eleven
+715	Batwoman                  S03E02  Loose Tooth
+716	DC's Legends of Tomorrow  S07E02  The Need for Speed
+717	Supergirl                 S06E17  I Believe in a thing Called Love
+718	Stargirl                  S02E12  Summer School: Chapter Twelve
+719	Batwoman                  S03E03  Freeze
+720	DC's Legends of Tomorrow  S07E03  wvrdr_error_100 not found
+721	Supergirl                 S06E18  Truth or Consequences
+722	Stargirl                  S02E13  Summer School: Chapter Thirteen
+723	Batwoman                  S03E04  Antifreeze
+724	DC's Legends of Tomorrow  S07E04  Speakeasy Does It
+725	Supergirl                 S06E19  The Last Gauntlet
+726	Supergirl                 S06E20  Kara
+727	Batwoman                  S03E05  A Lesson From Professor Pyg
+728	DC's Legends of Tomorrow  S07E05  It's a Mad, Mad, Mad, Mad Scientist
+729	The Flash                 S08E01  Armageddon, Part 1
+730	Batwoman                  S03E06  How Does Your Garden Grow?
+731	DC's Legends of Tomorrow  S07E06  Deus Ex Latrina
+732	The Flash                 S08E02  Armageddon, Part 2
+733	Batwoman                  S03E07  Pick Your Poison
+734	DC's Legends of Tomorrow  S07E07  A Woman's Place is in the War Effort!
+735	The Flash                 S08E03  Armageddon, Part 3
+736	The Flash                 S08E04  Armageddon, Part 4
+737	The Flash                 S08E05  Armageddon, Part 5
+738	Superman & Lois           S02E01  What Lies Beneath
+739	Batwoman                  S03E08  Trust Destiny
+740	DC's Legends of Tomorrow  S07E08  Paranoid Android
+741	Superman & Lois           S02E02  The Ties That Bind
+742	Batwoman                  S03E09  Meet Your Maker
+743	DC's Legends of Tomorrow  S07E09  Lowest Common Demoninator
+744	Superman & Lois           S02E03  The Thing in the Mines
+745	Batwoman                  S03E10  Toxic
+746	DC's Legends of Tomorrow  S07E10  The Fixed Point
+747	Superman & Lois           S02E04  The Inverse Method
+748	Batwoman                  S03E11  Broken Toys
+749	DC's Legends of Tomorrow  S07E11  Rage Against the Machines
+750	Superman & Lois           S02E05  Girl... You'll Be a Woman, Soon
+751	Batwoman                  S03E12  We're All Mad Here
+752	DC's Legends of Tomorrow  S07E12  Too Legit to Quit
+753	Superman & Lois           S02E06  Tried and True
+754	Batwoman                  S03E13  We Having Fun Yet?
+755	DC's Legends of Tomorrow  S07E13  Knocked Down, Knocked Up
+756	Superman & Lois           S02E07  Anti-Hero
+757	The Flash                 S08E06  Impulsive Excessive Disorder
+758	The Flash                 S08E07  Lockdown
+759	Superman & Lois           S02E08  Into Oblivion
+760	The Flash                 S08E08  The Fire Next Time
+761	Superman & Lois           S02E09  30 Days and 30 Nights
+762	The Flash                 S08E09  Phantoms
+763	The Flash                 S08E10  Reckless
+764	The Flash                 S08E11  Resurrection
+765	Superman & Lois           S02E10  Bizarros in a Bizarro World
+766	The Flash                 S08E12  Death Rises
+767	Superman & Lois           S02E11  Truth and Consequences
+768	The Flash                 S08E13  Death Falls
+769	The Flash                 S08E14  Funeral for a Friend
+770	The Flash                 S08E15  Into the Still Force
+771	The Flash                 S08E16  The Curious Case of Bartholomew Allen
+772	Superman & Lois           S02E12  Lies That Bind
+773	Superman & Lois           S02E13  All Is Lost
+774	The Flash                 S08E17  Keep It Dark
+775	The Flash                 S08E18  The Man in the Yellow Tie
+776	Superman & Lois           S02E14  Worlds War Bizarre
+777	The Flash                 S08E19  Negative, Part One
+778	Superman & Lois           S02E15  Waiting for Superman
+770	The Flash                 S08E20  Negative, Part Two
+780	Stargirl                  S03E01  Frenemies – Chapter One: The Murder
+781	Stargirl                  S03E02  Frenemies – Chapter Two: The Suspects
+782	Stargirl                  S03E03  Frenemies – Chapter Three: The Blackmail
+783	Stargirl                  S03E04  Frenemies – Chapter Four: The Evidence
 ````
