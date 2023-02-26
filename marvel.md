@@ -473,15 +473,23 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 455   Moon Knight                       S01E04 The Tomb
 456   Moon Knight                       S01E05 Asylum
 457   Moon Knight                       S01E06 Gods and Monsters
-458   She-Hulk: Attorney at Law         S01E01 A Normal Amount Of Rage
-459   She-Hulk: Attorney at Law         S01E02 Superhuman Law
-460   She-Hulk: Attorney at Law         S01E03 The People vs. Emil Blonksy
-461   She-Hulk: Attorney at Law         S01E04 Is This Not Real Magic?
-462   Ms. Marvel                        S01E01 Generation Why
-463   Ms. Marvel                        S01E02 Crushed
-464   Ms. Marvel                        S01E03 Destined
-465   Ms. Marvel                        S01E04 Seeing Red
-466   Ms. Marvel                        S01E05 Time and Again
-467   Ms. Marvel                        S01E06 No Normal
-468   Thor: Love And Thunder
+458   Black Panther: Wakanda Forever
+459   She-Hulk: Attorney at Law         S01E01 A Normal Amount Of Rage
+460   She-Hulk: Attorney at Law         S01E02 Superhuman Law
+461   She-Hulk: Attorney at Law         S01E03 The People vs. Emil Blonksy
+462   She-Hulk: Attorney at Law         S01E04 Is This Not Real Magic?
+463   She-Hulk: Attorney at Law         S01E05 Mean, Green, and Straight Poured Into These Jeans
+464   She-Hulk: Attorney at Law         S01E06 Just Jen
+465   She-Hulk: Attorney at Law         S01E07 The Retreat
+466   She-Hulk: Attorney at Law         S01E08 Ribbit and Rip It
+467   She-Hulk: Attorney at Law         S01E09 Whose Show Is This
+468   Ms. Marvel                        S01E01 Generation Why
+469   Ms. Marvel                        S01E02 Crushed
+470   Ms. Marvel                        S01E03 Destined
+471   Ms. Marvel                        S01E04 Seeing Red
+472   Ms. Marvel                        S01E05 Time and Again
+473   Ms. Marvel                        S01E06 No Normal
+474   Thor: Love And Thunder
+475   Werewolf By Night
+476   Ant-Man and the Wasp: Quantumania
 ````
