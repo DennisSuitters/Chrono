@@ -110,34 +110,34 @@
 2 Battle at the Binary Stars
 3 Context Is For Kings
 4 The Butcher's Knife Cares Not For The Lamb's Cry
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
+5 Choose Your Pain
+6 Lethe
+7 Magic to Make the Sanest Man Go Mad
+8 Si Vis Pacem, Para Bellum
+9 Into the Forst I go
+10 Despite Yourself
+11 The Wolf Inside
+12 Vaulting Ambition
+13 What's Past is Prologue
+14 The War Without, the War Within
+15 Will You Take My Hand?
 ````
 #### Star Trek: Discovery Season 2
 ````
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
+1 Brother
+2 New Eden
+3 Point of Light
+4 An Obol for Charon
+5 Saint of Imperfection
+6 The Sound of Thunder
+7 Light and Shadows
+8 If Memory Serves
+9 Project Daedalus
+10 The Red Angel
+11 Perpetual Infinity
+12 Through the Valley of Shadows
+13 Such Sweet Sorrow (1)
+14 Such Sweet Sorrow (2)
 ````
 #### Star Trek: The Original Series Season 1
 ````
