@@ -424,32 +424,38 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 406   Loki                              S01E04 The Nexus Event
 407   Loki                              S01E05 Journey Into Mystery
 408   Loki                              S01E06 For All Time. Always.
-409   WandaVision                       S01E01 Filmed Before a Live Studio Audience
-410   WandaVision                       S01E02 Don't Touch That Dial
-411   WandaVision                       S01E03 Now In Color
-412   WandaVision                       S01E04 We Interrupt This Program
-413   WandaVision                       S01E05 On A Very Special Episode...
-414   WandaVision                       S01E06 All-New Halloweeen Spooktacular!
-415   WandaVision                       S01E07 Breaking the Fourth Wall
-416   WandaVision                       S01E08 Previously On
-417   WandaVision                       S01E09 The Series Finale
-418   Shang-Chi And The Legend Of The Ten Rings
-419   The Falcon And The Winter Soldier S01E01 New World Order
-420   The Falcon And The Winter Soldier S01E02 The Star-Spangled Man
-421   The Falcon And The Winter Soldier S01E03 Power Broker
-422   The Falcon And The Winter Soldier S01E04 The Whole World is Watching
-423   The Falcon And The Winter Soldier S01E05 Truth
-424   The Falcon And The Winter Soldier S01E06 One World, One People
-425   Helstrom                          S01E01 Mother's Little Helpers
-426   Helstrom                          S01E02 Vlaticum
-427   Helstrom                          S01E03 The One Who Got Away
-428   Helstrom                          S01E04 Containment
-429   Helstrom                          S01E05 Committed
-430   Helstrom                          S01E06 Leviathan
-431   Helstrom                          S01E07 Scars
-432   Helstrom                          S01E08 Underneath
-433   Helstrom                          S01E09 Vessels
-434   Helstrom                          S01E10 Hell Storm
+409   Loki                              S02E01 Ouroboros 
+410   Loki                              S02E02 Breaking Brad
+411   Loki                              S02E03 1893
+412   Loki                              S02E04 Heart of the TVA
+413   Loki                              S02E05 Science/Fiction
+414   Loki                              S02E06 Glorious Purpose
+415   WandaVision                       S01E01 Filmed Before a Live Studio Audience
+416   WandaVision                       S01E02 Don't Touch That Dial
+417   WandaVision                       S01E03 Now In Color
+418   WandaVision                       S01E04 We Interrupt This Program
+419   WandaVision                       S01E05 On A Very Special Episode...
+420   WandaVision                       S01E06 All-New Halloweeen Spooktacular!
+421   WandaVision                       S01E07 Breaking the Fourth Wall
+422   WandaVision                       S01E08 Previously On
+423   WandaVision                       S01E09 The Series Finale
+424   Shang-Chi And The Legend Of The Ten Rings
+425   The Falcon And The Winter Soldier S01E01 New World Order
+426   The Falcon And The Winter Soldier S01E02 The Star-Spangled Man
+427   The Falcon And The Winter Soldier S01E03 Power Broker
+428   The Falcon And The Winter Soldier S01E04 The Whole World is Watching
+429   The Falcon And The Winter Soldier S01E05 Truth
+430   The Falcon And The Winter Soldier S01E06 One World, One People
+431   Helstrom                          S01E01 Mother's Little Helpers
+432   Helstrom                          S01E02 Vlaticum
+433   Helstrom                          S01E03 The One Who Got Away
+434   Helstrom                          S01E04 Containment
+435   Helstrom                          S01E05 Committed
+436   Helstrom                          S01E06 Leviathan
+437   Helstrom                          S01E07 Scars
+438   Helstrom                          S01E08 Underneath
+439   Helstrom                          S01E09 Vessels
+440   Helstrom                          S01E10 Hell Storm
 435   Spider-Man
 436   Spider-Man 2
 437   Spider-Man 3
@@ -492,4 +498,12 @@ https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_
 474   Thor: Love And Thunder
 475   Werewolf By Night
 476   Ant-Man and the Wasp: Quantumania
+476   Guardians of the Galaxy Vol. 3
+476   Secret Invasion                   S01E01 Resurrection
+476   Secret Invasion                   S01E02 Promises
+476   Secret Invasion                   S01E03 Betrayed
+476   Secret Invasion                   S01E04 Beloved
+476   Secret Invasion                   S01E05 Harvest
+476   Secret Invasion                   S01E06 Home
+476   The Marvels
 ````
